@@ -15,6 +15,21 @@
 		"tags": null
 	},
 	{
+		"id": "18911",
+		"name": "APIBond",
+		"summary": "APIBond is an API management platform that acts as a proxy where you can validate, transform, secure, analyze and scale any existing API.",
+		"details": "APIBond is an API management platform that acts as a proxy where you can validate, transform, secure, analyze and scale any existing API.",
+		"website": "http://apibond.com/",
+		"twitter": "https://twitter.com/apibond",
+		"github": "",
+		"blog": "",
+		"blogrss": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apibond.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apibond.png",
+		"tags": null
+	},
+	{
 		"id": "18757",
 		"name": "Apigee API Studio",
 		"summary": "Apigee launched their API Studio out of their earlier Apigee-127 product, their work on the Swagger platform and editor, and their BaaS offering, opening up the ability for developers to design, mock, test and share via the online platform. While Apigee Studio is part of the larger Apigee line of products, it is a separate standalone, open source based studio.",
@@ -147,6 +162,21 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/loader-io.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/loader-io.png",
+		"tags": null
+	},
+	{
+		"id": "18901",
+		"name": "LoadFocus",
+		"summary": "Load test with thousands of concurrent users. Monitor website uptime and perfomance. Measure website speed and get insights. Run load tests in the Cloud and stress your API with up to 50,000 concurrent users. Inspect results to optimise and improve performance.",
+		"details": "Load test with thousands of concurrent users. Monitor website uptime and perfomance. Measure website speed and get insights. Run load tests in the Cloud and stress your API with up to 50,000 concurrent users. Inspect results to optimise and improve performance.",
+		"website": "https://loadfocus.com/",
+		"twitter": "",
+		"github": "",
+		"blog": "http://loadfocus.com/blog/",
+		"blogrss": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/loadfocus.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/loadfocus.png",
 		"tags": null
 	},
 	{
