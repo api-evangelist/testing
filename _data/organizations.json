@@ -7,27 +7,69 @@
 		"website": "http://apifortress.com/landing/",
 		"twitter": "https://twitter.com/apifortress",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
 		"blog": "http://apifortress.com/blog/",
 		"blogrss": "",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-fortress.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-fortress.png",
-		"tags": null
+		"tags": [
+			"Testing",
+			"Monitoring"
+		]
 	},
 	{
 		"id": "MVn3IlJ9116HQjkefvNKsdIIqClTwkIAWs3cl9B0f3DOYT1231165eywMlcC6ugOUNGSZ1GJVv4AxI9r0nhs2ANtNcbQ117117",
-		"name": "apibond.com",
+		"name": "APIBond",
 		"summary": "APIBond is an API management platform that acts as a proxy where you can validate, transform, secure, analyze and scale any existing API.",
 		"details": "APIBond is an API management platform that acts as a proxy where you can validate, transform, secure, analyze and scale any existing API.",
 		"website": "http://apibond.com/",
 		"twitter": "https://twitter.com/apibond",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
 		"blog": "",
 		"blogrss": "",
-		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apibond.png",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apibond-logo.png",
 		"logo_width": "150",
-		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apibond.png",
-		"tags": null
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apibond-logo.png",
+		"tags": [
+			"Testing",
+			"Security",
+			"Monitoring",
+			"Aggregation"
+		]
+	},
+	{
+		"id": "zMJdE5suZz8Y6xPYNUdBV4DvjwHCw3DHRWmmswKeGwxIixvS116KHcpLXagbfUHMFI116Kh9on6wpzALHS7123Gz4fvA117117",
+		"name": "Apica",
+		"summary": "Apica provides the most effective technology for optimizing the performance of cloud and mobile applications. Apica offers companies and developers alike easy-to-use, cloud-based load testing and web performance monitoring tools to test applications for maximum capacity, daily performance, improved load times, and protection from peak loads. For more information about how Apica is providing the hi",
+		"details": "Apica provides the most effective technology for optimizing the performance of cloud and mobile applications. Apica offers companies and developers alike easy-to-use, cloud-based load testing and web performance monitoring tools to test applications for maximum capacity, daily performance, improved load times, and protection from peak loads. For more information about how Apica is providing the highest standard for cloud and mobile application performance management.",
+		"website": "https://www.apicasystem.com",
+		"twitter": "https://twitter.com/apicasystems",
+		"github": "https://github.com/ApicaSystem",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/ApicaSystem",
+		"base_url": "",
+		"blog": "https://www.apicasystem.com/blog/",
+		"blogrss": "https://www.apicasystem.com/feed/",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apica-logo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apica-logo.png",
+		"tags": [
+			"Testing",
+			"Performance",
+			"Monitoring"
+		]
 	},
 	{
 		"id": "UM1234JoIO5Ul0eFUWkOcRCfvYZfWBZmtiDxFBSZh4SBM3ixBu0oWLGXYEXSAzx4DUnkb8XJxjURYNDoQkjX786A117117",
@@ -37,12 +79,22 @@
 		"website": "http://apistudio.io/",
 		"twitter": "",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
 		"blog": "",
 		"blogrss": "",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-studio-logo.png",
 		"logo_width": "225",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-studio-logo.png",
-		"tags": null
+		"tags": [
+			"Virtualization",
+			"Testing",
+			"Design",
+			"Client"
+		]
 	},
 	{
 		"id": "KOIQDUCEKoi5QibxJuc6zzAUeYPWlIXiUzoekeNxQY0YtZE6cxkWp3HfxuotdgKj77mRTMnpTy1Wa6uIs1rlqg117117",
@@ -52,12 +104,19 @@
 		"website": "https://www.apitest.io/",
 		"twitter": "https://twitter.com/apitest_io",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
 		"blog": "",
 		"blogrss": "",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-test-io-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-test-io-logo.png",
-		"tags": null
+		"tags": [
+			"Testing"
+		]
 	},
 	{
 		"id": "oS2dn116lyHpp7116zMXU9LwLOJvHJ1NbAbKClwqIK03YzAGAUBrzwANJj87NY7E1F5x1lMM2wE917k73dIxhpRiOg117117",
@@ -67,12 +126,20 @@
 		"website": "https://www.apitools.com/",
 		"twitter": "https://twitter.com/apitools",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
 		"blog": "http://docs.apitools.com/blog/",
 		"blogrss": "",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apitools-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apitools-logo.png",
-		"tags": null
+		"tags": [
+			"Testing",
+			"API Proxy"
+		]
 	},
 	{
 		"id": "RoGx116Fc88cgVjEqUXuD116i9WDMednOZbG1AKK18lelf4FoEViZeS2yy3116oAH3pONb116bJMuq8ZHkAOA123fSX7IDtQ117117",
@@ -82,12 +149,21 @@
 		"website": "http://www.badtesting.com/",
 		"twitter": "https://twitter.com/BadTesting",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": null,
 		"blog": "",
 		"blogrss": "",
 		"logo": "",
 		"logo_width": "0",
 		"screenshot": "",
-		"tags": null
+		"tags": [
+			"Testing",
+			"Monitoring",
+			"Chicago"
+		]
 	},
 	{
 		"id": "HQ4Zl2YagBLhehe116cc53MPEKt2Rc5cJV09GeaeJxCIy9OP2123fjttsHek0CsaIf8SUvMzF1jsIisi81PZG1koIA117117",
@@ -97,12 +173,48 @@
 		"website": "http://blazemeter.com/",
 		"twitter": "https://twitter.com/BlazeMeter",
 		"github": "https://github.com/Blazemeter",
+		"apisjson_url": "http://theapistack.com/data/blazemeter/apis.json",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/Blazemeter",
+		"base_url": "",
 		"blog": "http://blazemeter.com/blog",
 		"blogrss": "http://feedburner.google.com/fb/a/mailverify?uri=JmeterCloudBlog",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1297_logo.jpg",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1297_logo.jpg",
-		"tags": null
+		"tags": [
+			"Testing-Stack",
+			"Testing",
+			"Performance",
+			"API-Stack"
+		]
+	},
+	{
+		"id": "Nr4TW7GKPhfvOGGyJUwRygD9EmAqJRN7xtUPnlMcSMrcuNhFaDtivHn123r5rc2hZSYouThx86zP4Kg1eYCk123123bQ117117",
+		"name": "BugBuster",
+		"summary": false,
+		"details": "",
+		"website": "http://bugbuster.com/",
+		"twitter": "https://twitter.com/BugBuster_Inc",
+		"github": "",
+		"apisjson_url": "http://theapistack.com/data/buffer/apis.json",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": null,
+		"blog": "http://blog.bugbuster.com/",
+		"blogrss": "http://blog.bugbuster.com/feed/",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/2039_logo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/2039_logo.png",
+		"tags": [
+			"Testing",
+			"Detection",
+			"Code-Stack",
+			"Bug",
+			"API-Stack"
+		]
 	},
 	{
 		"id": "jYrTfx2r36p82kpMEUwauEDRrocXGoE59HUDvMWLGrur3AzB6vC5dJuoa8gGWA123gsSyC17QP66W8zuzwasf9hw117117",
@@ -112,12 +224,19 @@
 		"website": "http://catchsoftware.com/",
 		"twitter": "https://twitter.com/catchsoftware",
 		"github": "https://github.com/catch-software",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/catch-software",
+		"base_url": null,
 		"blog": "http://catchsoftware.com/blogs/",
 		"blogrss": "http://catchsoftware.com/blogs/feed/",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/catch_logo.gif",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/catch_logo.gif",
-		"tags": null
+		"tags": [
+			"Testing"
+		]
 	},
 	{
 		"id": "ESURmz1fLjr7H116vnnSH0HE8yMND9ItuJxbjlBjVvfb3orQvtUCvaZapRFkyqUG123fLmMJABh0CKUP2P2okb2vUA117117",
@@ -127,12 +246,24 @@
 		"website": "http://crossbrowsertesting.com",
 		"twitter": "https://twitter.com/xbrowsertesting",
 		"github": "",
+		"apisjson_url": "http://theapistack.com/data/crossbrowsertesting/apis.json",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": null,
 		"blog": "http://crossbrowsertesting.com/blog",
 		"blogrss": "view-source:http://crossbrowsertesting.com/blog/feed",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cbt-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cbt-logo.png",
-		"tags": null
+		"tags": [
+			"Testing",
+			"Project Management",
+			"Performance",
+			"Network-Stack",
+			"Browser Testing",
+			"API-Stack"
+		]
 	},
 	{
 		"id": "39116Q6YeoIh7Wi27Q7tGtZObDsNsZsXJvBBe8IaxLop4N674Y36GolaFq123PXSmvGQBMDksUAtNU5SxEyzdvvZrA117117",
@@ -142,12 +273,22 @@
 		"website": "http://www.crosschecknet.com/",
 		"twitter": "",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
 		"blog": "http://soa-testing.blogspot.com/",
 		"blogrss": "http://feeds.feedburner.com/soatesting?format=xml",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cross-check-networks.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cross-check-networks.png",
-		"tags": null
+		"tags": [
+			"Virtualization",
+			"Testing",
+			"Security",
+			"API Gateways"
+		]
 	},
 	{
 		"id": "fXB4Szcu639e7981w8L6fsRR11aPwGM7IFh45M3n6I116fhbpZqIVLH9GLlT1UffA0nihqTtM06gVnSAc4Gu7DMw117117",
@@ -157,12 +298,19 @@
 		"website": "https://cucumber.io/",
 		"twitter": "",
 		"github": "https://github.com/cucumber",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/cucumber",
+		"base_url": "",
 		"blog": "https://cucumber.io/blog",
 		"blogrss": "https://cucumber.io/feed.xml",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Cucumber.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Cucumber.png",
-		"tags": null
+		"tags": [
+			"Testing"
+		]
 	},
 	{
 		"id": "7Q8u2uLxAKPaUKsudrPohc4civ3DyKxIIX0QvY4x8o6nkucJV0tfDSShM79otlXIBDwsvMAdN09VXq9xixo1Kw117117",
@@ -172,12 +320,19 @@
 		"website": "http://frisbyjs.com/",
 		"twitter": "",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
 		"blog": "",
 		"blogrss": "",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/frisby-js.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/frisby-js.png",
-		"tags": null
+		"tags": [
+			"Testing"
+		]
 	},
 	{
 		"id": "vwRa04nx6n3yH9hAt1168xDdQ8kXru1SX1cQjmZxMMxfuJdP2PcHtUCUZCLkqoZkeWM123GKPrcVf38J116hynVq2116Uw117117",
@@ -187,12 +342,20 @@
 		"website": "https://loadimpact.com/",
 		"twitter": "https://twitter.com/loadimpact",
 		"github": "https://github.com/loadimpact",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/loadimpact",
+		"base_url": "",
 		"blog": "http://blog.loadimpact.com/",
 		"blogrss": "http://blog.loadimpact.com/feed/",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/load-impact-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/load-impact-logo.png",
-		"tags": null
+		"tags": [
+			"Testing",
+			"Performance"
+		]
 	},
 	{
 		"id": "7mZdTnLwrrn116kIIlz8FHSMxk7l47kcGZh5zx3fqOwW1162123ziI4Bbhz4YA2hjIczvGxVlI13GM56ev6yFEDrgWog117117",
@@ -202,12 +365,22 @@
 		"website": "https://loader.io/",
 		"twitter": "https://twitter.com/loaderio",
 		"github": "",
+		"apisjson_url": "http://theapistack.com/data/loaderio/apis.json",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
 		"blog": "http://blog.loader.io/",
 		"blogrss": "",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/loader-io.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/loader-io.png",
-		"tags": null
+		"tags": [
+			"Testing",
+			"Performance",
+			"Network-Stack",
+			"API-Stack"
+		]
 	},
 	{
 		"id": "8lTS0B116RjZ116Xtl9wh123vjasbDLyMiRtdaajOU12kArNgAcOslWkVKpyXh0xWgWKWAlgXr123CpGc1239Giv7B6cLJZA117117",
@@ -217,12 +390,20 @@
 		"website": "https://loadfocus.com/",
 		"twitter": "",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
 		"blog": "http://loadfocus.com/blog/",
 		"blogrss": "",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/loadfocus.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/loadfocus.png",
-		"tags": null
+		"tags": [
+			"Testing",
+			"Performance"
+		]
 	},
 	{
 		"id": "OZH4wn64ElYdsfJ2RLPSCs116HpBOFW8x4ZMKb0KVHymdLw9wxlOy3X5Vrgl0ycG51BqASCoRuSqYS6FNkH74UKw117117",
@@ -232,12 +413,22 @@
 		"website": "http://www.mocky.io/",
 		"twitter": "",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
 		"blog": "",
 		"blogrss": "",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mocky-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mocky-logo.png",
-		"tags": null
+		"tags": [
+			"Virtualization",
+			"Testing",
+			"Sandbox",
+			"Code"
+		]
 	},
 	{
 		"id": "tz9D7PvDQ2KKEjmLy5zuUDXrHlFwWLF68VrgQCv9RXvNanW87Jo2ZCbbPxtJWlslLO8d2mjuq5aMewT116BbIbGw117117",
@@ -247,12 +438,22 @@
 		"website": "http://opensnp.org",
 		"twitter": "https://twitter.com/openSNPorg",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": null,
 		"blog": "",
 		"blogrss": "",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/open-snp.png",
 		"logo_width": "125",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/open-snp.png",
-		"tags": null
+		"tags": [
+			"Testing",
+			"Search",
+			"Science",
+			"Genetics"
+		]
 	},
 	{
 		"id": "zoo6FOY5hi116j12338Uya7Fast0iWxs86MLhlkK2qk6oNKyAJ6RhIyBXA116kNxVHuBkUS9RmP5bRzgXiJgZ4PH09kw117117",
@@ -262,12 +463,20 @@
 		"website": "http://www.parasoft.com/",
 		"twitter": "https://twitter.com/Parasoft",
 		"github": "https://github.com/parasoft",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/parasoft",
+		"base_url": "",
 		"blog": "http://blog.parasoft.com/",
 		"blogrss": "http://www.parasoft.com/rss/",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/parasoft-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/parasoft-logo.png",
-		"tags": null
+		"tags": [
+			"Virtualization",
+			"Testing"
+		]
 	},
 	{
 		"id": "CEHn5HTji5KMMn2PKoquVUELLxgHp5xlC7bwpRD4WMT1GTz123tH3Tfil6imy116iVmtTG123a4SdmIhNvWyvoqUgz123g117117",
@@ -277,12 +486,21 @@
 		"website": "http://www.getpostman.com/",
 		"twitter": "https://twitter.com/postmanclient",
 		"github": "https://github.com/a85",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/a85",
+		"base_url": "",
 		"blog": "http://blog.getpostman.com/",
 		"blogrss": "http://blog.getpostman.com/index.php/feed/",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/postman-rest-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/postman-rest-logo.png",
-		"tags": null
+		"tags": [
+			"Testing",
+			"Client",
+			"Chrome"
+		]
 	},
 	{
 		"id": "SkaAkkWeK6lJLIpM116yaGKIChA4b9sp3v4DAMFy8hk2YdVgPbHCh12376Nc9hF123a9OtcX2NDL1SAj5as06HCF6KzA117117",
@@ -292,12 +510,46 @@
 		"website": "http://restunited.com/",
 		"twitter": "https://twitter.com/restunited",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
 		"blog": "",
 		"blogrss": "",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/rest-united.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/rest-united.png",
-		"tags": null
+		"tags": [
+			"Testing",
+			"SDK",
+			"Documentation",
+			"Debugging",
+			"API Management SDK"
+		]
+	},
+	{
+		"id": "adrVQsJMtEJ2u7Ko6Dy3m1164yM116GjIAtUtDwLO2tykeL123EJ9hvndQHsjnvjz7PHc116116addQ308m1166QVAkMSEbeaA117117",
+		"name": "Restlet DHC",
+		"summary": "Call APIs to discover and validate their behavior, build and run complete test scenarios. Trying out an API to check its behavior usually involves writing a program or sending command line instructions to call the API",
+		"details": "Call APIs to discover and validate their behavior, build and run complete test scenarios. Trying out an API to check its behavior usually involves writing a program or sending command line instructions to call the API",
+		"website": "https://restlet.com/products/dhc/",
+		"twitter": "",
+		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
+		"blog": "",
+		"blogrss": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/restlet-dhc-logo.jpg",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/restlet-dhc-logo.jpg",
+		"tags": [
+			"Testing",
+			"Client"
+		]
 	},
 	{
 		"id": "DUxXFisUAy3BMSvZ8WDIsVrEKw5ARBi210lrybHKfdvx2wOGEDSqV8LDt7rA6AlfWHwm2k6hf8Z4UYNXY8DJHQ117117",
@@ -307,12 +559,20 @@
 		"website": "http://www.therightapi.com/",
 		"twitter": "https://twitter.com/rightapi",
 		"github": "https://github.com/theRightAPI",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/theRightAPI",
+		"base_url": "",
 		"blog": "http://blog.therightapi.com",
 		"blogrss": "http://feeds.feedburner.com/rtur",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/therightapi-logo-2.png",
 		"logo_width": "225",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/therightapi-logo-2.png",
-		"tags": null
+		"tags": [
+			"Testing",
+			"Monitoring"
+		]
 	},
 	{
 		"id": "GW123biLWXdN123bJGNA3HIA0xCcdX92W4e74qPum7APLeQA4OPHnGVk9PFYkgBslVUFCVfCd2pgjYyeUYHTYZ2nQA117117",
@@ -322,12 +582,25 @@
 		"website": "https://www.runscope.com/",
 		"twitter": "https://twitter.com/Runscope",
 		"github": "https://github.com/Runscope",
+		"apisjson_url": "http://theapistack.com/data/runscope/apis.json",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/Runscope",
+		"base_url": "https://www.runscope.com/docs/api",
 		"blog": "http://blog.runscope.com/",
 		"blogrss": "http://blog.runscope.com/posts?format=rss",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/runscope-logo.png",
 		"logo_width": "250",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/runscope-logo.png",
-		"tags": null
+		"tags": [
+			"Testing-Stack",
+			"Testing",
+			"My API Stack",
+			"Monitoring-Stack",
+			"Monitoring",
+			"API-Stack",
+			"API LIfeycle"
+		]
 	},
 	{
 		"id": "5XY9ZmWQTyosDZvFCZ6cTFcMYRYz2h0GIoyxX0OinNHu4TKtVCYplbfx5gF17zutie84lMk6i3U7wTsc1sc1FQ117117",
@@ -337,12 +610,24 @@
 		"website": "http://smartbear.com/",
 		"twitter": "https://twitter.com/smartbear",
 		"github": "https://github.com/SmartBear",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/SmartBear",
+		"base_url": "",
 		"blog": "http://blog.smartbear.com/",
 		"blogrss": "http://feeds.feedburner.com/smartbear",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/SmartBear-Logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/SmartBear-Logo.png",
-		"tags": null
+		"tags": [
+			"Virtualization",
+			"Testing",
+			"Security",
+			"Performance",
+			"Monitoring",
+			"API LIfeycle"
+		]
 	},
 	{
 		"id": "8z6MkPWPJp1bnMhJb9NoT6OC711612321KsAK5BXAebEWievfubD0dIIOslTCbt77vq7WEDxgwEAjsd11671RwktMNVw117117",
@@ -352,12 +637,21 @@
 		"website": "http://stoplight.io/",
 		"twitter": "https://twitter.com/stoplightio",
 		"github": "https://github.com/stoplightio",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/stoplightio",
+		"base_url": "",
 		"blog": "",
 		"blogrss": "",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/stoplight-io-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/stoplight-io-logo.png",
-		"tags": null
+		"tags": [
+			"Testing",
+			"Client",
+			"API LIfeycle"
+		]
 	},
 	{
 		"id": "IGsQ5k1236yn15rNUW1JV1pdy5eSa51G8i5uXE123LlvN8FE9315ka04QNSdV3RsZp0zgWvXjLbXSFryqJobGxOTwA117117",
@@ -367,12 +661,23 @@
 		"website": "https://testflightapp.com/api/doc/",
 		"twitter": "https://twitter.com/#!/testflightapp",
 		"github": "https://github.com/testflight",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/testflight",
+		"base_url": null,
 		"blog": "http://blog.testflightapp.com/",
 		"blogrss": "http://blog.testflightapp.com/rss",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1178_logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1178_logo.png",
-		"tags": null
+		"tags": [
+			"Testing",
+			"Performance Testing",
+			"Performance",
+			"Mobile",
+			"Application Management"
+		]
 	},
 	{
 		"id": "XgPCscrbwc36RRxRb3123HDYLsfmgap8HSiH6MX26eK8r3zargkEwgngz116Jd73WPwdqNH7Vp123v5eGFs8AfdmJBQA117117",
@@ -382,12 +687,20 @@
 		"website": "http://www.viatests.com/",
 		"twitter": "https://twitter.com/Viatests",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": null,
 		"blog": "",
 		"blogrss": "",
 		"logo": "",
 		"logo_width": "0",
 		"screenshot": "",
-		"tags": null
+		"tags": [
+			"Testing",
+			"Monitoring"
+		]
 	},
 	{
 		"id": "Aoirwli17JpV1234SGn6uAgQVsaQes5vThAWNxldgHg8k123yNH5HFNTXbDoJ1EcWtxuMRDG8x4R9nhWBurI116BpNig117117",
@@ -397,11 +710,19 @@
 		"website": "http://vrest.io/",
 		"twitter": "",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
 		"blog": "",
 		"blogrss": "",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/vrsest-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/vrsest-logo.png",
-		"tags": null
+		"tags": [
+			"Virtualization",
+			"Testing"
+		]
 	}
 ]
