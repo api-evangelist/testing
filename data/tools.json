@@ -64,22 +64,6 @@
 		"watchers": "476"
 	},
 	{
-		"tool_id": "123H95dOkiHRI0le86uWwmkzQyfr1Vbe123Bq7Dz9123rSv4AAY3xnf48Z6bf71OvTsbBuJpwumHvE2PHig116TAtPlYaA117117",
-		"name": "dredd-example",
-		"user": "apiaryio",
-		"details": "Example API application for Dredd API Blueprint test tool",
-		"post_date": "2015-05-14 12:43:22",
-		"url": "https://github.com/apiaryio/dredd-example/",
-		"blog_url": "https://github.com/apiaryio/dredd-example/",
-		"blog_rss_url": "",
-		"twitter_url": "",
-		"github_url": "",
-		"logo": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png",
-		"forks": "14",
-		"followers": "22",
-		"watchers": "22"
-	},
-	{
 		"tool_id": "aooTW9zWdlcoyBgU8CGLZQktBJ2TSstd6i0dM94AYbSEAC7rRpueq0h8pdi7rJ5jG1232Ipp123VpFZeAg320ewlvQ117117",
 		"name": "dredd-rack",
 		"user": "gonzalo-bulnes",
@@ -126,22 +110,6 @@
 		"forks": "11",
 		"followers": "435",
 		"watchers": "435"
-	},
-	{
-		"tool_id": "nrrDJXW1Md0EgGMMLT3ojx4TTJKsAI8mWED8OU8VCCwbE2q5vc81162Q6i116T6h123XcONbW6QWO1qKQ4Xot5Uq123cQg117117",
-		"name": "soapui-swagger-plugin",
-		"user": "olensmar",
-		"details": "a SoapUI plugin for importing swagger definitions as REST Services",
-		"post_date": "2015-03-28 18:51:31",
-		"url": "https://github.com/olensmar/soapui-swagger-plugin/",
-		"blog_url": "https://github.com/olensmar/soapui-swagger-plugin/",
-		"blog_rss_url": "",
-		"twitter_url": "",
-		"github_url": "",
-		"logo": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png",
-		"forks": "3",
-		"followers": "2",
-		"watchers": "2"
 	},
 	{
 		"tool_id": "BCcWAG5sdJabp4Ua6xq116CsKwQ123Q123oDFBB38lpZKHAN6HqwTEkAJ6JBffnrtTgApP6IYvV123STtauPgI6tT3a9mQ117117",
