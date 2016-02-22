@@ -7,8 +7,8 @@ title: Tools
   {% for org in site.data.tools %}
   <tr>
     <td align="left" width="80%" style="border-top: 1px solid #CCC; padding-top:18px;">
-      <a href="{{ org.website }}"><img src="{{ org.logo }}" width="75" align="left" style="padding: 15px;" /></a>
-      <a href="{{ org.website }}" style="color: #000;"><strong>{{ org.name }}</strong></a>
+      <a href="{{ org.url }}"><img src="{{ org.logo }}" width="75" align="left" style="padding: 15px;" /></a>
+      <a href="{{ org.url }}" style="color: #000;"><strong>{{ org.name }}</strong></a>
       {{ org.details }}
     </td>
     <td width="50" align="center" style="border-top: 1px solid #CCC;">
@@ -18,28 +18,28 @@ title: Tools
     </td>
     <td width="50" align="center" style="border-top: 1px solid #CCC;">
       {% if org.blog != empty %}
-        <a href="{{ org.blog }}" target="_blank" title="Blog">
+        <a href="{{ org.blog_url }}" target="_blank" title="Blog">
           <img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-blog-icon.png" width="18" align="center" />
         </a>
       {% endif %}
     </td>
     <td width="50" align="center" style="border-top: 1px solid #CCC;">
       {% if org.blogrss != empty %}
-        <a href="{{ org.blogrss }}" target="_blank" title="Blog RSS">
+        <a href="{{ org.blog_rss_url }}" target="_blank" title="Blog RSS">
           <img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-rss-icon.png" width="18" align="center" />
         </a>
       {% endif %}
     </td>
     <td width="50" align="center" style="border-top: 1px solid #CCC;">
       {% if org.twitter != empty %}
-        <a href="{{ org.twitter }}" target="_blank" title="Twitter">
+        <a href="{{ org.twitter_url }}" target="_blank" title="Twitter">
           <img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-twitter-icon.png" width="23" align="center" />
         </a>
       {% endif %}
     </td>
     <td width="50" align="center" style="border-top: 1px solid #CCC;">
       {% if org.github != empty %}
-        <a href="{{ org.github }}" target="_blank" title="Github">
+        <a href="{{ org.github_url }}" target="_blank" title="Github">
           <img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github-icon.png" width="25" align="center" />
         </a>
       {% endif %}
