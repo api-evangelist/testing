@@ -1,49 +1,29 @@
 ---
 layout: page
-title: Tools
+title: 'API Testing Tooling'
 ---
-
-<table width="100%" border="0" cellpadding="1" cellspacing="1">
-  {% for org in site.data.tools %}
-  <tr>
-    <td align="left" width="80%" style="border-top: 1px solid #CCC; padding-top:18px;">
-      <a href="{{ org.url }}"><img src="{{ org.logo }}" width="65" align="left" style="padding: 15px;" /></a>
-      <a href="{{ org.url }}" style="color: #000;"><strong>{{ org.name }}</strong></a>
-      {{ org.details }}
-    </td>
-    <td width="50" align="center" style="border-top: 1px solid #CCC;">
-      <a href="{{ org.url }}" target="_blank" title="Website">
-        <img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-home-icon.jpeg" width="20" align="center" />
-      </a>
-    </td>
-    <td width="50" align="center" style="border-top: 1px solid #CCC;">
-      {% if org.blog_url != empty %}
-        <a href="{{ org.blog_url }}" target="_blank" title="Blog">
-          <img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-blog-icon.png" width="18" align="center" />
+<h1>{{ site.title }} Tooling</h1>
+<p>{{ site.tools_desc }}</p>
+<table width="100%" border="0">
+  {% for tool in site.data.tools %}
+    {% if tool.tags contains 'Testing' %}
+    <tr>
+      <td align="center" valign="middle" width="60">
+        <a href="{{ tool.url }}"><img src="{{ tool.logo }}" width="100" align="left" style="padding: 15px;" /></a>
+      </td>
+      <td align="left" width="75%">
+        <a href="{{ tool.url }}" style="color: #000;">
+          <strong>{{ tool.name }}</strong>
         </a>
-      {% endif %}
-    </td>
-    <td width="50" align="center" style="border-top: 1px solid #CCC;">
-      {% if org.blog_rss_url != empty %}
-        <a href="{{ org.blog_rss_url }}" target="_blank" title="Blog RSS">
-          <img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-rss-icon.png" width="18" align="center" />
-        </a>
-      {% endif %}
-    </td>
-    <td width="50" align="center" style="border-top: 1px solid #CCC;">
-      {% if org.twitter_url != empty %}
-        <a href="{{ org.twitter_url }}" target="_blank" title="Twitter">
-          <img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-twitter-icon.png" width="23" align="center" />
-        </a>
-      {% endif %}
-    </td>
-    <td width="50" align="center" style="border-top: 1px solid #CCC;">
-      {% if org.github_url != empty %}
-        <a href="{{ org.github_url }}" target="_blank" title="Github">
-          <img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github-icon.png" width="25" align="center" />
-        </a>
-      {% endif %}
-    </td>
-  </tr>
+        <p style="font-size: 11px;">{{ tool.details }}</p>
+      </td>
+      <td width="75" align="center" valign="middle">
+          <a href="{{ tool.url }}" target="_blank" title="Website">
+            <img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-home-icon.jpeg" width="25" />
+          </a>
+      </td>
+    </tr>
+    {% endif %}
   {% endfor %}
 </table>
+<p>If there is an "open source tool" that should be listed here, <a href="https://github.com/{{ site.org }}/{{ site.repo }}/issues">submit as a Github Issue, and I will consider adding</a>.</p>
