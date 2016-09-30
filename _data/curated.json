@@ -1,5 +1,245 @@
 [
 	{
+		"curated_id": "Tkr82h1dD123jY6lmXFXyf1160P6Mp1QAzjbNl7t8WPunCYjyp2VUDCtxbf3ZlEnOFic1L00xiT1QViMH8k61P0Vug117117",
+		"item_date": "2016-09-23 00:00:00",
+		"title": "How to Treat your Application as an API",
+		"url": "http://blog.eviltester.com/2016/09/how-to-treat-your-application-as-api.html",
+		"domain": "blog.eviltester.com",
+		"image": ""
+	},
+	{
+		"curated_id": "FQsUD1D3lQQlaagE0gqCrBolGFkkbQSQn2hvGqlbupv3aq1237123ZYgreXTfQplLVI26XpDxbEy7R31oOeKQXOR7A117117",
+		"item_date": "2016-09-21 00:00:00",
+		"title": "JUnit vs TestNG Which Testing Framework Should You Choose",
+		"url": "https://dzone.com/articles/junit-vs-testng-which-testing-framework-should-you",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Vi8HPcuy7vmDT6ex5pRvhXwbQF9Zr0eP123x1lnUpGoWIPIWvzRTrz7N8pNc3BD37nAcceAAXvXthAWAo8iCzJFg117117",
+		"item_date": "2016-09-21 00:00:00",
+		"title": "Ways to mock dependencies for tests  Code for Victory",
+		"url": "http://dg3feiko.github.io/testing/2015/10/15/Ways-to-mock-dependencies-for-tests/",
+		"domain": "dg3feiko.github.io",
+		"image": ""
+	},
+	{
+		"curated_id": "116yIvT2Q1RWMv2r9l7F7K38LM7157r5d9nRkJEpLzWfu9sY6hN8us2116N3JMc54ld116aJZbWWYWvzJjtAEUwP3GMA117117",
+		"item_date": "2016-09-22 00:00:00",
+		"title": "Testing the Internet of Everything",
+		"url": "https://dzone.com/articles/testing-the-internet-of-everything",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "123o2PWkMUu1qoswcgcbTckTMnAH1164emdmUHZhOsVIiNORXq6MNHbPyd8JXxJqeKe1123yShE1161C486PWa1m3eHoxQ117117",
+		"item_date": "2016-09-22 00:00:00",
+		"title": "AAA API Testing  Accessible Affordable Agile",
+		"url": "https://blogs.ca.com/2016/09/21/api-testing-accessible-affordable-agile/",
+		"domain": "blogs.ca.com",
+		"image": ""
+	},
+	{
+		"curated_id": "d2oMXVjX4txZo49BQ5dF3HQOrNPEYJ7d99YZPQOlqHsZm0s116taiCy6ckKfcBTe50kZ89itnJVdoxaG1166gqR2kA117117",
+		"item_date": "2016-09-21 00:00:00",
+		"title": "AAA API testing  Accessible Affordable Agile",
+		"url": "http://blogs.ca.com/2016/09/21/api-testing-accessible-affordable-agile/",
+		"domain": "blogs.ca.com",
+		"image": ""
+	},
+	{
+		"curated_id": "hdR1QRCsMgD116RkinphY123Ya5TBKBliGnDZnjViNADF1m7ljhXtr123TrrkpDkR1Huee123IHn5aSNnXJO2tISqn7116Gw117117",
+		"item_date": "2016-09-19 00:00:00",
+		"title": "Testing Nix Packages in Docker",
+		"url": "https://dzone.com/articles/testing-nix-packages-innbspdocker",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "jD90ehoQRORhPryslPWiXaFFmRURGeLRPeNgUuWk1OYUXMw116KAynaA6t8XoniToOojfAjIeNe73EHpkc1VR1QA117117",
+		"item_date": "2016-09-12 12:15:03",
+		"title": "How to write powerful automated API tests with Postman Newman and Jenkins",
+		"url": "http://blog.getpostman.com/2015/09/03/how-to-write-powerful-automated-api-tests-with-postman-newman-and-jenkins/",
+		"domain": "blog.getpostman.com",
+		"image": ""
+	},
+	{
+		"curated_id": "EhRWC9116Ubwle1GuJjdlEzO116rPiDDngP7pLHmq6qzKUgIcOrVbLuLghTICEfT123iWLkxoAkECQMxiOkojIPTgIiQ117117",
+		"item_date": "2016-09-13 00:00:00",
+		"title": "API Testing  DHC becomes an extension soon",
+		"url": "http://restlet.com/blog/2016/09/13/api-testing-dhc-becomes-an-extension-soon/",
+		"domain": "restlet.com",
+		"image": ""
+	},
+	{
+		"curated_id": "edYbaWsa123R8e2zfyLXvgo5AVtwXb1116NuEbMXDFregXHr1c7Jdjs116O1KPP39WvuR8Zd6VBQYTsvcKTwD116QVKygg117117",
+		"item_date": "2016-09-15 00:00:00",
+		"title": "Learn API DevOps from the Experts  Design Testing Deployment",
+		"url": "http://restlet.com/blog/2016/09/15/sept-api-meetup/",
+		"domain": "restlet.com",
+		"image": ""
+	},
+	{
+		"curated_id": "vju77EEMVVmrZeDEAf811601TwrBDc116ownw9kmW123qKSb5kpUU5cs4TPPCmGm6KTUCYZcYuRVMXdBk99E8ggJiR116w117117",
+		"item_date": "2016-09-14 00:00:00",
+		"title": "Usability Testing User Research at the Center of Duos Design Process",
+		"url": "https://duo.com/blog/usability-testing-user-research-at-the-center-of-duos-design-process",
+		"domain": "duo.com",
+		"image": ""
+	},
+	{
+		"curated_id": "mURTBn3qs6E495DVIvsejyqluF8I1232123WCdzfZHWEgoGALbdJ5cJWCOP6116Q3UCGXMF9fbbG116YVUBay3c1P1obgg117117",
+		"item_date": "2016-09-13 00:00:00",
+		"title": "Running a JMeter Test Via Jenkins Pipeline",
+		"url": "https://dzone.com/articles/running-a-jmeter-test-via-jenkins-pipeline",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "MExKcbiWRTS1eqzrTXxKSXrP9116XfE6kDXpJ1WUHjeNFDlSx5YUci2vr8bAWeDR3XgENnyQAKTmNVGO0Z6tKNOA117117",
+		"item_date": "2016-09-08 00:00:00",
+		"title": "Testing REST API File Uploads in JMeter",
+		"url": "https://dzone.com/articles/testing-rest-api-file-uploads-in-jmeter",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "GkGOeoRhdJ2e4TX5Ao116jyA6H9116mnqoBXzM670R1162wDTGh4KMUYr1164TehUe8yltujeXJ0jNkGri2pmBI0rfGd5g117117",
+		"item_date": "2016-09-07 00:00:00",
+		"title": "The Ultimate Cheat Sheet On BDD Test Automation With Serenity",
+		"url": "https://dzone.com/articles/the-ultimate-cheat-sheet-on-bdd-test-automation-wi-1",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ISirk1165bVP9rTJ6wNeKkiSb3C6123nFKqKpL1aNy7Dw3EcVm9esthhs4JViSv7hgScbnbKLhJu3RqGr123AkTgwZyA117117",
+		"item_date": "2016-08-29 00:00:00",
+		"title": "Selenium Test Automation Success Reasons and Best Practices",
+		"url": "https://dzone.com/articles/selenium-test-automation-success-reasons-amp-best",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Nuhsmo21Vaj9CQU4QPauRRflJRtg3X8yy9AwJoAyl37sf8mXtjkUEs4f123dKvdP2hYlFl1yvUfVMQ8ryN123rzdJw117117",
+		"item_date": "2016-09-02 13:57:01",
+		"title": "dareidchakram REST API test framework BDD and exploits promises",
+		"url": "https://github.com/dareid/chakram",
+		"domain": "github.com",
+		"image": ""
+	},
+	{
+		"curated_id": "uxofgCUiCBH1a2cKOPHzZc12D3Of123123CxClkTuf7WH123XtZWilXVZssKC47BTJ8y2MQcN8Cri3oQ7z6noV4iFB123g117117",
+		"item_date": "2016-09-02 00:00:00",
+		"title": "XPath for Selenium IDE",
+		"url": "https://dzone.com/articles/xpath-implementation-for-selenium-ide",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "4Zp8123uThfCZkZkHHq44lzRMXbwqX8fiAOnanQK2123kBWnfOy8O95cIvPH7fsUIp9ghqFo1232O5wwMK2pM157GWuw117117",
+		"item_date": "2016-08-29 00:00:00",
+		"title": "Advanced Load Testing Scenarios with JMeter Part 4 Stepping Thread Group and Concurrency Thread Group",
+		"url": "https://dzone.com/articles/advanced-load-testing-scenarios-with-jmeter-part-4",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "PfA116CLHsVCIEpzVfTKi2i6a116eJ0u4k79xOvAfux8tQwX3RE3ZwRBwUPaFrSzJgksplCDIwEtZRizo1233UYulZJw117117",
+		"item_date": "2016-08-25 00:00:00",
+		"title": "Test Your Swagger API",
+		"url": "https://blog.apiary.io/2016/08/25/Test-Your-Swagger-API",
+		"domain": "blog.apiary.io",
+		"image": ""
+	},
+	{
+		"curated_id": "aQOKGhpJxSw8nlhdob1233sdQCoXH7CY8gy9FRqSLlxMBdYVlMkhLsJcL20LWSm1vd8On4116U0o7wi18xKUESo0Xg117117",
+		"item_date": "2016-08-22 00:00:00",
+		"title": "System Testing in Automated Infrastructure",
+		"url": "https://dzone.com/articles/system-testing-in-automated-infrastructure",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "tdeKPg123WkRG4CbHGwpgojVym3lbrJyry34UwKkFrizvPIo2N3zpGM7R7jt11619giNJODmn6XHbkbFeOfQqHJOCA117117",
+		"item_date": "2016-08-15 00:00:00",
+		"title": "Web Service Testing a Chat Room GUI and API",
+		"url": "https://dzone.com/articles/web-service-testing-a-chat-room-gui-and-api",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "lpqk73UYIdJ1XkOa7mucF3n3T45w4s97WFCa1zZ39hwXphUGm84GGP7k2Pe46736wKQWoa4aQjhNz0SJgPPAPg117117",
+		"item_date": "2016-08-16 00:00:00",
+		"title": "3 Ways to Fortify Your APIs to Make Sure Theyre Battle Ready",
+		"url": "http://blog.smartbear.com/api-testing/fortify-apis-with-api-testing/",
+		"domain": "blog.smartbear.com",
+		"image": ""
+	},
+	{
+		"curated_id": "IBXAD1sY0EM116ut9y03iXNIdsqTCWpN9twAlSUMRHFJC123LJmYp9SHpIACPssF1Zvc95fszJathQeZiKGmgxaaVQ117117",
+		"item_date": "2016-08-17 00:00:00",
+		"title": "Testing Hybrid Systems and APIs",
+		"url": "https://www.apicasystem.com/blog/testing-hybrid-systems-apis/",
+		"domain": "www.apicasystem.com",
+		"image": ""
+	},
+	{
+		"curated_id": "j4SZXSFCjEHm123dxdmqP18Rmtd123Kw4aXJAMz123NcvG123fmpPHJRNaCLPsE2uXFmdq1v1238lszlYCVCwc8IyI116bCJDw117117",
+		"item_date": "2016-08-19 00:00:00",
+		"title": "The Role of System Testing in Automated Infrastructure",
+		"url": "http://blog.smartbear.com/api-testing/system-testing-in-automated-infrastructure/",
+		"domain": "blog.smartbear.com",
+		"image": ""
+	},
+	{
+		"curated_id": "eGM6ZjzJitXc0FWpidX9pN7pm319GLLZDbZ7Fe7tkllbNd2qh8cmDbb0owdKuyU1163AX3B62OXxa123qfq1231efnOg117117",
+		"item_date": "2016-08-18 00:00:00",
+		"title": "Testing Your Automations Is Now Easier Than Ever",
+		"url": "http://www.activecampaign.com/blog/testing-your-automations-is-now-easier-than-ever/",
+		"domain": "www.activecampaign.com",
+		"image": ""
+	},
+	{
+		"curated_id": "VzGYTJulX802fpyzfZOC116oqNjASFY8Y7qxqKohZumUdm7IiTJQUWUD11644wazQQBnbjYrMXzWFmhpWrk3OBasnw117117",
+		"item_date": "2016-08-17 00:00:00",
+		"title": "Arrow Builder API Server Sizing using Load Testing",
+		"url": "https://www.appcelerator.com/blog/2016/08/arrow-builder-api-server-sizing-using-load-testing/",
+		"domain": "www.appcelerator.com",
+		"image": ""
+	},
+	{
+		"curated_id": "aWgZIT01yvKqdPnHmgO116c4Yb2yDgYPB3g7YFZaq8U1166LuWd5CcNHgqCna6wvG8ZhDw94cEz9pKhP8Hnu7Vn3yQ117117",
+		"item_date": "2016-08-16 00:00:00",
+		"title": "API Mocking Tool WireMock v2 Released with Improved Request Matching and Stub Management",
+		"url": "https://www.infoq.com/news/2016/08/wiremock-v2-api-mocking",
+		"domain": "www.infoq.com",
+		"image": ""
+	},
+	{
+		"curated_id": "3vexSQ8hYt7iQqlAQ123zh1QFY0J2OxHmGdppzU29p116U2Ou116pmkmyYrfzKry7ILLIfs4HFTNeLVoYrC4j38dZtXw117117",
+		"item_date": "2016-08-12 00:00:00",
+		"title": "Getting Started With Selenium",
+		"url": "https://dzone.com/refcardz/getting-started-selenium",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "XOFQLyE8QwiyuuSlRw36iqloNBho4HBFcIfjImp123Le20MucnXBb4123lNil8hFd1uFRh49tygzZRH9P4OrsBa2gw117117",
+		"item_date": "2016-08-12 00:00:00",
+		"title": "Testing Spark Streaming Integration Testing With Docker Compose",
+		"url": "https://dzone.com/articles/testing-spark-streaming-integration-testing-with-d",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Ut1Z0gtXfgiBM56nFx116MVCW4Ywk116Gh6AnwIR6B116SKi6lXucK123S5hB03VSj5MQetY1160L4VWDMVNTK8f2U4Sq8EQ117117",
+		"item_date": "2016-08-05 00:00:00",
+		"title": "Continuous Integration Testing on Docker Cloud",
+		"url": "https://blog.docker.com/2016/08/continuous-integration-testing-on-docker-cloud-its-dead-simple/",
+		"domain": "blog.docker.com",
+		"image": ""
+	},
+	{
 		"curated_id": "UJpL0HP68wCNs116HTYDfpDECPvDCpF8TZClHtP9qth63jpjQ18123gp8gjqwMAPK6lBfZalNvQ7CwniuyB123xCfSQg117117",
 		"item_date": "2016-08-09 00:00:00",
 		"title": "Better Unit Tests",
@@ -756,14 +996,6 @@
 		"item_date": "2016-01-11 00:00:00",
 		"title": "Unit Testing Apache Cordova Apps with Visual Studio Part 1",
 		"url": "https://blogs.msdn.microsoft.com/visualstudio/2016/01/11/unit-testing-apache-cordova-apps-with-visual-studio-part-1/",
-		"domain": "blogs.msdn.microsoft.com",
-		"image": ""
-	},
-	{
-		"curated_id": "4UxZfFqeK73vtzw0jbDGLZL66gUWl116g0ajVf7jCuARb98DKKiIK7kxpwapj4RP879yiVpkfnSk7cXneeBSW47g117117",
-		"item_date": "2016-01-13 00:00:00",
-		"title": "Unit Testing Apache Cordova Apps with Visual Studio Part 2",
-		"url": "https://blogs.msdn.microsoft.com/visualstudio/2016/01/13/unit-testing-apache-cordova-apps-with-visual-studio-part-2/",
 		"domain": "blogs.msdn.microsoft.com",
 		"image": ""
 	},
