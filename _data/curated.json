@@ -1,5 +1,13 @@
 [
 	{
+		"curated_id": "epqi0KKLTw4JTNsvQKGpDY7bB9TKSs7GDkInrQbL0Emq9E59ew123Slb66dqWUeMzoxfdVHyuDrazAjxtjI9k90A117117",
+		"item_date": "2016-10-04 00:00:00",
+		"title": "Thoughts on the Right Configuration and Strategy for Load Testing Gatling",
+		"url": "https://dzone.com/articles/thoughts-on-the-right-configuration-and-strategy-f?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+dzone",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
 		"curated_id": "5kOkhbGiu1230DcVsRVqSzdbU4dk8b116Fy2TmE123elXxEPHewzDdvTUF6EasQGRN6uhFbwoVMSXFz123VeXhDyDCIm7w117117",
 		"item_date": "2016-09-26 00:00:00",
 		"title": "How to View JMeter Test Results in RealTime",
@@ -11,7 +19,7 @@
 		"curated_id": "gkmfxSSxBHv50Ri7e4cJVgRD2ZU584MNluawuU8XIBgF7H8tJn123eTMQ7os0Ghoh42ofs8eUUo6L70I5FhGMDqg117117",
 		"item_date": "2016-09-27 00:00:00",
 		"title": "REST API Inspector",
-		"url": "https://restdb.io/blog",
+		"url": "https://restdb.io/blog#!posts/57ead5a12d15442d0000054a",
 		"domain": "restdb.io",
 		"image": ""
 	},
