@@ -1,5 +1,13 @@
 [
 	{
+		"curated_id": "BbDMm1F1HtAoBAStAGCQqpTg6WoKHFYRS3Kybn0BPDAZcIdnXFxT6LTQbbMwy4iB2123lOyjzuT8QENsKjD0hCUQ117117",
+		"item_date": "2016-10-06 00:00:00",
+		"title": "Using JavaScript to Validate HTTP Headers in API Responses",
+		"url": "https://www.apiscience.com/blog/javascript-validate-api-http-headers/",
+		"domain": "www.apiscience.com",
+		"image": ""
+	},
+	{
 		"curated_id": "wmFqWqqQtHiV4ub26niBMonURboWuyAR6hG2Li4wIYnahyA3WXWd116lHO0lnXOE2123iheu123yqJ41x1rz6123116UyFMw117117",
 		"item_date": "2016-10-07 00:00:00",
 		"title": "Concepts API Tester",
@@ -13,6 +21,14 @@
 		"title": "Meet Zipkin A Tracer for Debugging Microservices",
 		"url": "http://thenewstack.io/meet-zipkin-tracer-debugging-microservices/",
 		"domain": "thenewstack.io",
+		"image": ""
+	},
+	{
+		"curated_id": "UwC8ibIkyY6bo5hZ5WnJorPQjAYB1NtguGWwLwnJBGerPwXTAU6dAekgvSF1r74iwIrmHTfjD85fAI71F9TB123A117117",
+		"item_date": "2016-10-03 00:00:00",
+		"title": "Using JavaScript and Chai Asserts to Validate API Response Timing versus Data Size",
+		"url": "https://www.apiscience.com/blog/chai-javascript-assert-timing-validation/",
+		"domain": "www.apiscience.com",
 		"image": ""
 	},
 	{
