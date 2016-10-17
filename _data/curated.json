@@ -1,5 +1,45 @@
 [
 	{
+		"curated_id": "4wnrri0RpBiKqnctaO8ufRa5Ib4RMazoYF7WRp3idtZgIjYyErRpPy3qUFLvQOCfqKSZpMZKAGu4qgX3VbF4BA117117",
+		"item_date": "2016-10-16 00:00:00",
+		"title": "How to Automate Testing Using Selenium WebDriver Jenkins and Allure",
+		"url": "https://dzone.com/articles/how-to-automate-testing-using-selenium-webdriver-j?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+dzone",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "JNm2nDIyF4kS123smiXl7123yp0ADGi116msjVyoFVALzbnLHvmg4DTkIfFukWR4kgYoE55NYBi123N0eL2YgKkiA8cA123g117117",
+		"item_date": "2016-10-10 00:00:00",
+		"title": "Using JavaScript to Validate HTTP Response Codes in API Responses",
+		"url": "https://www.apiscience.com/blog/javascript-validate-api-response-codes/",
+		"domain": "www.apiscience.com",
+		"image": ""
+	},
+	{
+		"curated_id": "2xrPo8XH116jdEdij2imbFMMdUQ96F6VunpcKxaaELCTLKyVgPPnxSsiy116K1xlBOcc9rUnFmECkNqR05xzTYBUhw117117",
+		"item_date": "2016-10-13 00:00:00",
+		"title": "Using JavaScript to Validate API Response Bodies",
+		"url": "https://www.apiscience.com/blog/using-javascript-to-validate-api-response-bodies/",
+		"domain": "www.apiscience.com",
+		"image": ""
+	},
+	{
+		"curated_id": "L116116PqWj5ywEzFv5116TmPNE4yTwITjzBYMAmwBEGrTg4acYH31mrqtruUtnGwNuBI1235123MCurGY6R1HZS8ui1fRAw117117",
+		"item_date": "2016-10-14 00:00:00",
+		"title": "How to Approach API Testing for Microservices",
+		"url": "https://dzone.com/articles/how-to-approach-api-testing-for-microservices",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "R5TrPlxyzWNPgHIw37FDtGgs123ZpbBk6EwNfphhKrbAF02nyaxiYnSx116C07R2kBd6tQvQGODTkpjxC5ypgUvaYQ117117",
+		"item_date": "2016-10-11 00:02:19",
+		"title": "API Test Automation with Postman Part 1  Medium",
+		"url": "https://medium.com/@kevin_moses_ang/api-test-automation-with-postman-part-1-850c163bcc6e#.yuk1enr25",
+		"domain": "medium.com",
+		"image": ""
+	},
+	{
 		"curated_id": "R8123mJNvw3EWhpJ5ExR8HtlUuxplJRZgajV7ZJWFuif8IkyaeABSd7s3ArvT4uiZocpXia7ffCN6GcbQVGch123tA117117",
 		"item_date": "2016-10-07 00:00:00",
 		"title": "The Anatomy of Good Unit Testing",
