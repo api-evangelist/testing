@@ -1,5 +1,53 @@
 [
 	{
+		"curated_id": "GQ5WvSrzG572r123gnO527K3T2DZjSYXmkx1aJnV3usHDKhwzAEXPYTxkolu7fadZzGt11FLuSPvBe0ODRdGx123TQ117117",
+		"item_date": "2016-10-19 00:00:00",
+		"title": "Netflix Chaos Monkey Upgraded",
+		"url": "http://techblog.netflix.com/2016/10/netflix-chaos-monkey-upgraded.html",
+		"domain": "techblog.netflix.com",
+		"image": ""
+	},
+	{
+		"curated_id": "123r6lIPt5uvfTliQ1n1eoz116eyIDIWk34efsCYCzk9lu1DGxr9gRIVv123GHmrZbo0mrDYKPmolzMvolchdfMsBkuw117117",
+		"item_date": "2016-10-20 13:03:43",
+		"title": "API Testing  Introducing behaviordriven development BDD to test APIs with DHC by Restlet",
+		"url": "http://restlet.com/blog/2016/10/13/api-testing-introducing-behavior-driven-development-to-test-apis-with-dhc-by-restlet/",
+		"domain": "restlet.com",
+		"image": ""
+	},
+	{
+		"curated_id": "xmJPhkRfecNvqaEgyJYoK116lo1xgjHCIYe34WRHW5jkNw2cek3ZR4CiHvFBicgdUH6ubwZG116XqxnPJBNK116123I7dg117117",
+		"item_date": "2016-10-20 00:00:00",
+		"title": "Reinventing Performance Testing Continuous Integration",
+		"url": "https://dzone.com/articles/reinventing-performance-testing-continuous-integra",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "vi5kJnd53a5hyX2mx3i1CQ1116WBEoWIF123ewcVmbWmSfEKp4UxytNAc26sSNIDiHcktWkbcl3VBkGJ3gK3z116NK5w117117",
+		"item_date": "2016-10-20 00:00:00",
+		"title": "The Evolution of the Testing Pyramid",
+		"url": "https://dzone.com/articles/testing-geometric-shapes-evolution-of-testing-pyra",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "50116Wg9oddmfoDsyqLp123m8n5W0mOsLNXxaVVG4WNV123XrSVXgg4Ih123Q1163SESKE2ZS116eI0CzlQts6yTlQf116tlZp9w117117",
+		"item_date": "2016-10-17 00:00:00",
+		"title": "Using Regular Expressions and JavaScript to Validate API Responses",
+		"url": "https://www.apiscience.com/blog/regular-expressions-javascript-api-validation/",
+		"domain": "www.apiscience.com",
+		"image": ""
+	},
+	{
+		"curated_id": "dink3vKacGdB7fgPyz9fMW1B8WrJ5Dk34qdH116PVyPdP116Yr123HdKzbBo116FWsvP41pxhypkvpFphgr892hGWcCeiw117117",
+		"item_date": "2016-10-17 00:00:00",
+		"title": "API Testing Definition",
+		"url": "http://www.softwaretestingmagazine.com/knowledge/api-testing-definition/",
+		"domain": "www.softwaretestingmagazine.com",
+		"image": ""
+	},
+	{
 		"curated_id": "4wnrri0RpBiKqnctaO8ufRa5Ib4RMazoYF7WRp3idtZgIjYyErRpPy3qUFLvQOCfqKSZpMZKAGu4qgX3VbF4BA117117",
 		"item_date": "2016-10-16 00:00:00",
 		"title": "How to Automate Testing Using Selenium WebDriver Jenkins and Allure",
