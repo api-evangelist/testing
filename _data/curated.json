@@ -1,5 +1,13 @@
 [
 	{
+		"curated_id": "QCnxvdpTEznzawtmLlsx123DaLeHqKR123ZAElbXmIsK3BO5mPSIOEs4hhaXmMpl4SGqcEcvqYDY4Q62zU2U88p0Qw117117",
+		"item_date": "2017-01-13 00:00:00",
+		"title": "Unit Test Initialization and Cleanup",
+		"url": "https://www.codeproject.com/Articles/1165536/Unit-Test-Initialization-and-Cleanup",
+		"domain": "www.codeproject.com",
+		"image": ""
+	},
+	{
 		"curated_id": "C116xhHBS4HvMfVhGvl4123cnyxNk123pZaYuQBLr0YoHNqpipj9TUvDZAAsa57Z4BBpNq6nlXEVHhk66AKvLV6CKxbA117117",
 		"item_date": "2017-01-03 00:00:00",
 		"title": "Generating Test Data with Faker and friends",
