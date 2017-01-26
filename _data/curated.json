@@ -1,5 +1,13 @@
 [
 	{
+		"curated_id": "123CXSVgzq123DSwc0KkUm1VNTgW77j2L123GVZBIovoKdHP7ehtcrCAJHfX4nmh0iRnS123mD3uDK97bZwPLgqqYwQ30w117117",
+		"item_date": "2017-01-19 00:00:00",
+		"title": "Run your API Test Scenarios on Travis CI with DHC by Restlet",
+		"url": "http://restlet.com/blog/2017/01/19/run-your-api-test-scenarios-on-travis-ci-with-dhc-by-restlet/",
+		"domain": "restlet.com",
+		"image": ""
+	},
+	{
 		"curated_id": "QCnxvdpTEznzawtmLlsx123DaLeHqKR123ZAElbXmIsK3BO5mPSIOEs4hhaXmMpl4SGqcEcvqYDY4Q62zU2U88p0Qw117117",
 		"item_date": "2017-01-13 00:00:00",
 		"title": "Unit Test Initialization and Cleanup",
