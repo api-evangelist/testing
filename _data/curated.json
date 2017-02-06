@@ -1,5 +1,13 @@
 [
 	{
+		"curated_id": "qz2vzxA0LCKHmn4Xp6enAYrTL116K2Ja8QDk4IjcHaAgiU2TRFRSZd9rrlSD7Jzn4lTkoS3nt6sM116AzjcXgdWZqQ117117",
+		"item_date": "2017-02-02 00:00:00",
+		"title": "IoT Device Test Challenges",
+		"url": "http://spectrum.ieee.org/whitepaper/iot-device-test-challenges",
+		"domain": "spectrum.ieee.org",
+		"image": ""
+	},
+	{
 		"curated_id": "KU4eMu8IQTR3hf2123ybAW8iA8LLBiEJVI6DFhJhLOdyf5AlMNH116fi2bpsvjz123hUcHzmJB7iifxlvppEw7123opyVA117117",
 		"item_date": "2017-01-17 00:00:00",
 		"title": "Unit Testing Custom Wordpress Rest Api Endpoints",
