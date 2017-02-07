@@ -1,10 +1,58 @@
 [
 	{
+		"curated_id": "Y1BJJqs116zMD80wxEqL7Eab116alUcun0NewXGUniuNn2116RS123hjGepjuXfvImXf6yszWpT7dYnl6JX8NaESQLceTw117117",
+		"item_date": "2017-02-01 00:00:00",
+		"title": "Retrieving and Verifying API Science Parameters",
+		"url": "https://www.apiscience.com/blog/retrieve-verify-api-parameters/",
+		"domain": "www.apiscience.com",
+		"image": ""
+	},
+	{
 		"curated_id": "qz2vzxA0LCKHmn4Xp6enAYrTL116K2Ja8QDk4IjcHaAgiU2TRFRSZd9rrlSD7Jzn4lTkoS3nt6sM116AzjcXgdWZqQ117117",
 		"item_date": "2017-02-02 00:00:00",
 		"title": "IoT Device Test Challenges",
 		"url": "http://spectrum.ieee.org/whitepaper/iot-device-test-challenges",
 		"domain": "spectrum.ieee.org",
+		"image": ""
+	},
+	{
+		"curated_id": "om4RWsuUWFsmE1232n116hXwzi6tI6V2M1VEF9dGuNGFbls7sjwynzPiS2B9dVXOlVRQC0OmrOv3IhGHuBzvjLJaTw117117",
+		"item_date": "2017-02-01 10:13:42",
+		"title": "6 Common API Errors",
+		"url": "https://blog.runscope.com/posts/6-common-api-errors",
+		"domain": "blog.runscope.com",
+		"image": ""
+	},
+	{
+		"curated_id": "YSN7VxlyRUSWVrIzfyEhw5vtj0Xp6doguUzlAckhOpVkjrQ7116GHiYAKLTBn0a8XxQzUStqWonOM116Gp2otfou2g117117",
+		"item_date": "2017-01-30 00:00:00",
+		"title": "Penetration Testing from Amazon Cloud",
+		"url": "http://resources.infosecinstitute.com/penetration-testing-amazon-cloud/",
+		"domain": "resources.infosecinstitute.com",
+		"image": ""
+	},
+	{
+		"curated_id": "RurnbXlJwu4q1QyJu6xpJBhUQdGfr6rEQADWwJyCKduBENUwj9iYxF6I9lcdmcSx4gDF7WE3pJHbnmFB123kcDcA117117",
+		"item_date": "2017-01-30 00:00:00",
+		"title": "Behavior Testing your APIs",
+		"url": "http://www.builtinaustin.com/events/behavior-testing-your-apis",
+		"domain": "www.builtinaustin.com",
+		"image": ""
+	},
+	{
+		"curated_id": "VfBs2iRN6fnkrpV5Eo2Rcl7GyUU5b1sRqU7dus2IXFG50OsehkiPNSOtQIhrign4VTtRs5FNOYQ1EWanN7H0vw117117",
+		"item_date": "2017-01-30 00:00:00",
+		"title": "Using Service Virtualization Instead of Depending on Others for API Testing",
+		"url": "https://dzone.com/articles/tired-of-depending-on-others-for-api-testing-servi",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Am2ZIDGTQdpxrstgx2nyKhIKRQJGLBUf7SnvNrKx3h1eF4B2VWUwR1idZnqaSYkhugyOnFfv22tF9bhnO123oSWQ117117",
+		"item_date": "2017-01-31 00:00:00",
+		"title": "Espresso Testing and Spoon",
+		"url": "https://dzone.com/articles/espresso-testing-and-spoon",
+		"domain": "dzone.com",
 		"image": ""
 	},
 	{
