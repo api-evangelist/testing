@@ -1,5 +1,45 @@
 [
 	{
+		"curated_id": "C3hrDTstXsNVHdPk7GmB2ajkTQx3lWonConHxveSYARnJv94Lvy40dyhvZSlVcaiY3sl3eaiBnqP0mfTumWO4w117117",
+		"item_date": "2017-02-12 00:00:00",
+		"title": "Senior Automation Testing Engineer",
+		"url": "https://www.bayt.com/en/kuwait/jobs/senior-automation-testing-engineer-3619233/",
+		"domain": "www.bayt.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ymH38Cw116AXEZQP6UEulYjJGhewlOCTYVpgYo4lfACILy4z74WdKVcMZekRt7oEA4YUBQ7RN2IUoL8MCK22fLug117117",
+		"item_date": "2017-02-11 00:00:00",
+		"title": "How to Plan Effective Test Automation",
+		"url": "https://dzone.com/articles/how-to-plan-an-effective-test-automation-in-agile?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+dzone",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "1NkBMfOevFXPqDTKgTL1VY1hK3XTkN5Lq8xQ01ZtAldNe0xh1237hJeE9vChQfL1XdQJRusY9fmn9VTMKtD31SJA117117",
+		"item_date": "2017-02-08 00:00:00",
+		"title": "Use Automatic API Documentation Testing To Supercharge API Growth",
+		"url": "http://nordicapis.com/use-automatic-api-documentation-testing-to-supercharge-api-growth/",
+		"domain": "nordicapis.com",
+		"image": ""
+	},
+	{
+		"curated_id": "e19svDdLxZ123mVOJ7c11647123gT5qg02NrYYBztwzeqpAb7sFMjQxJPMGGOhKF7RU6oO8WMyWb7tMkFI6f1C6MItsA117117",
+		"item_date": "2017-02-09 00:00:00",
+		"title": "Points of View to Consider When Switching to Automated Testing",
+		"url": "https://dzone.com/articles/approaching-to-needs-for-an-automated-test-platfor",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ElxB8pEwnIwZBeBeX2Zhj7Y7yig4RPsqA7GV123uHsYq0r41x0h0R2zoJxYwUVmOXIrd11165caZ7DT116PV5OYgYsbQ117117",
+		"item_date": "2017-02-09 00:00:00",
+		"title": "Systematic Content Validation with Varnish",
+		"url": "https://dzone.com/articles/systematic-content-validation-with-varnish?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+dzone",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
 		"curated_id": "Y1BJJqs116zMD80wxEqL7Eab116alUcun0NewXGUniuNn2116RS123hjGepjuXfvImXf6yszWpT7dYnl6JX8NaESQLceTw117117",
 		"item_date": "2017-02-01 00:00:00",
 		"title": "Retrieving and Verifying API Science Parameters",
