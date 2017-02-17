@@ -1,8 +1,16 @@
 [
 	{
+		"curated_id": "PsTSvJVs9Y2kYGzAjRtCNQ8PEh1UEFysRhjC9o6pooMiDXJlaMUqj60OndzAttrwCo1pheSqx116JPCLQ12323SvBQ117117",
+		"item_date": "2017-02-15 00:00:00",
+		"title": "Angular Testing In Depth HTTP Services",
+		"url": "https://auth0.com/blog/angular-testing-in-depth-http-services/",
+		"domain": "auth0.com",
+		"image": ""
+	},
+	{
 		"curated_id": "EVtF950HAO91uAJac14aGN3mVmQIkk116g4PCEeE6eHmLjqNddI61VGTDLZBWMFiSA5c123E123WeJHo1WXedM7Guaag117117",
 		"item_date": "2017-02-09 09:53:16",
-		"title": "Tweet Scenarios are here They are painless They are fast Click button test API httpstcoPwKqKWIxVt",
+		"title": "Scenarios are here They are painless They are fast Click button test API",
 		"url": "https://twitter.com/stoplightio/statuses/829750025441988608",
 		"domain": "twitter.com",
 		"image": ""
@@ -19,7 +27,7 @@
 		"curated_id": "ymH38Cw116AXEZQP6UEulYjJGhewlOCTYVpgYo4lfACILy4z74WdKVcMZekRt7oEA4YUBQ7RN2IUoL8MCK22fLug117117",
 		"item_date": "2017-02-11 00:00:00",
 		"title": "How to Plan Effective Test Automation",
-		"url": "https://dzone.com/articles/how-to-plan-an-effective-test-automation-in-agile?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+dzone",
+		"url": "https://dzone.com/articles/how-to-plan-an-effective-test-automation-in-agile",
 		"domain": "dzone.com",
 		"image": ""
 	},
