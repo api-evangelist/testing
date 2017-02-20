@@ -1,10 +1,58 @@
 [
 	{
+		"curated_id": "116sDIZLprX5x94lR6RM2TZ2RA1oB3FKb3EOURduf123VHzINw70NUhz4SsD123ENjd116CXDKpoXtozpwLwDJNBVdyMgg117117",
+		"item_date": "2017-02-17 18:50:36",
+		"title": "Testing your API with Postman",
+		"url": "https://www.codementor.io/equimper/testing-your-api-with-postman-4tuwpkswp",
+		"domain": "www.codementor.io",
+		"image": ""
+	},
+	{
+		"curated_id": "EFeECzaLeno2TyqKdqa5FaZqR81soIk5LSzFzC23dbag0qbwwpPgNXDSOMYVqLKq35fuSNxLjazjHoV3VV2dlg117117",
+		"item_date": "2017-02-16 00:00:00",
+		"title": "Should I Test at the GUI Level or the API Level",
+		"url": "https://dzone.com/articles/should-i-test-at-the-gui-level-or-the-api-level",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "hoRa7i2116TbhXI0US123Cnxk4mbsAgxdjJg4UUA3l4g123ge6GFhBbOcfDbeI9pbNy1fVczJaqasFEPVWFad4tmabmw117117",
+		"item_date": "2017-02-16 00:00:00",
+		"title": "This Week in Spring Distributed Tracing Microservices and REST",
+		"url": "https://dzone.com/articles/this-week-in-spring-february-14th-2017?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+dzone",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "pQOW1wjW7YRJv6T32wBKFnI6xtQf9PH3J31Lw9yA7Kwe123aRsEFozsV123BQ116arSDQQoXd8X9HDmEFmhqLEQD3sOg117117",
+		"item_date": "2017-02-16 00:00:00",
+		"title": "Best Practices in Exploratory Testing",
+		"url": "https://dzone.com/articles/best-practices-in-exploratory-testing?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+dzone",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "dPr3jnMikVdNtSWH25RpWbs95ByH9UQvS7F6W8UycbP7uAtp7qfRHxY4DEKcq9jYfKlTJdZvxnku3AdqgPkWgw117117",
+		"item_date": "2017-02-18 00:00:00",
+		"title": "Debug TensorFlow Models with tfdbg",
+		"url": "http://feedproxy.google.com/~r/GDBcode/~3/fTUc0ud5Qa4/debug-tensorflow-models-with-tfdbg.html",
+		"domain": "feedproxy.google.com",
+		"image": ""
+	},
+	{
 		"curated_id": "iYelRpxBDw2FBm0fHDYOUs57JWP1g116hEswAQPDGe4oHGhbR7A0G6q4UgCNFTe753Naz0t4E123BZewgsB1OuFFmg117117",
 		"item_date": "2017-02-17 00:00:00",
 		"title": "Boosting Software Testing Productivity With Test Data Management",
 		"url": "https://dzone.com/articles/boosting-software-testing-productivity-with-test-d",
 		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "VxvjusnM123qirbsXRu5Nnu78NcqA123WUx4Juv5f7za7S3pu3116123UzY9KSckfvS2Jaa1116kXCX7zFMa0OlwMfh123Nw123g117117",
+		"item_date": "2017-02-14 00:00:00",
+		"title": "What Types of Bugs Does API Testing Find",
+		"url": "https://www.apicasystem.com/blog/types-bugs-api-testing-find/",
+		"domain": "www.apicasystem.com",
 		"image": ""
 	},
 	{
