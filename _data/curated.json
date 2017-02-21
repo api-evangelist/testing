@@ -19,7 +19,7 @@
 		"curated_id": "hoRa7i2116TbhXI0US123Cnxk4mbsAgxdjJg4UUA3l4g123ge6GFhBbOcfDbeI9pbNy1fVczJaqasFEPVWFad4tmabmw117117",
 		"item_date": "2017-02-16 00:00:00",
 		"title": "This Week in Spring Distributed Tracing Microservices and REST",
-		"url": "https://dzone.com/articles/this-week-in-spring-february-14th-2017?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+dzone",
+		"url": "https://dzone.com/articles/this-week-in-spring-february-14th-2017",
 		"domain": "dzone.com",
 		"image": ""
 	},
@@ -35,8 +35,8 @@
 		"curated_id": "dPr3jnMikVdNtSWH25RpWbs95ByH9UQvS7F6W8UycbP7uAtp7qfRHxY4DEKcq9jYfKlTJdZvxnku3AdqgPkWgw117117",
 		"item_date": "2017-02-18 00:00:00",
 		"title": "Debug TensorFlow Models with tfdbg",
-		"url": "http://feedproxy.google.com/~r/GDBcode/~3/fTUc0ud5Qa4/debug-tensorflow-models-with-tfdbg.html",
-		"domain": "feedproxy.google.com",
+		"url": "https://developers.googleblog.com/2017/02/debug-tensorflow-models-with-tfdbg.html",
+		"domain": "developers.googleblog.com",
 		"image": ""
 	},
 	{
