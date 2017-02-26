@@ -1,5 +1,21 @@
 [
 	{
+		"curated_id": "yiCTRuAqVuSEKm1roElC697jWmrEE0cpW53rGzE0bU04aLej3TyuBg9WqvUXnRxAexaMToScJhE9kwoUnwq4yg117117",
+		"item_date": "2017-02-20 00:00:00",
+		"title": "Top 6 Challenges of API Testing",
+		"url": "https://www.apicasystem.com/blog/top-6-challenges-api-testing/",
+		"domain": "www.apicasystem.com",
+		"image": ""
+	},
+	{
+		"curated_id": "u116BV116lrNpZZTsKvmeGmKHC5469erHsMaol123x8OzdTpw4mCjOQhkY123TKe116pglAPZr123GGxFU7dzA2jKnc6t6hy7w117117",
+		"item_date": "2017-02-21 00:00:00",
+		"title": "DHS offering GPS resiliency tests for critical infrastructure devices",
+		"url": "http://thehill.com/policy/cybersecurity/320493-dhs-offering-gps-resiliency-tests-for-critical-infrastructure-devicesn",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
 		"curated_id": "116sDIZLprX5x94lR6RM2TZ2RA1oB3FKb3EOURduf123VHzINw70NUhz4SsD123ENjd116CXDKpoXtozpwLwDJNBVdyMgg117117",
 		"item_date": "2017-02-17 18:50:36",
 		"title": "Testing your API with Postman",
