@@ -1,5 +1,61 @@
 [
 	{
+		"curated_id": "iVgaGrc116eG0RrARq7jI3wl068EMPJQfw23s0mrHd8ZUU91Tthcyn9D0rLg4tFdX6n1uhesZLSukNye846Ev4YQ117117",
+		"item_date": "2017-04-03 09:18:35",
+		"title": "Automating tests is simple with the Postman Collection Runner",
+		"url": "http://blog.getpostman.com/2016/11/22/postmans-new-collection-runner/",
+		"domain": "blog.getpostman.com",
+		"image": ""
+	},
+	{
+		"curated_id": "x8nQdvFBxWZ1AtM1EyROU3rPAgnLRuqGWVo2eO9F7qAVqEk116Hf08W2eHruGBz13ntdn4QmBGFm1166vhoMH3284g117117",
+		"item_date": "2017-04-04 00:00:00",
+		"title": "Scalable Load Testing With JMeter AWS and Redline13",
+		"url": "https://dzone.com/articles/scalable-and-cheap-load-testing-with-jmeter-aws-an?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+dzone",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "8QpKp69UtUJ6PhEkmMtKSoz5hnMDlfWyAoaJwxchbLvOvpfbqI1160VqVrZ116uhT2SeCh123U9j9DKLhGxrRjvdewIg117117",
+		"item_date": "2017-04-07 00:00:00",
+		"title": "Why You Should Take Automated Testing Seriously",
+		"url": "https://dzone.com/articles/why-you-should-take-automated-testing-seriously?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+dzone",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "pQYmqSK2x1S123hScxRItpf01XUx3gqwpmZmyCODjpyLIqjVhUCmB2LjT3116Bn5JZbnh13Ydoky2KyvAjwCIcTyfw117117",
+		"item_date": "2017-04-07 00:00:00",
+		"title": "Getting to Know Selenium 3",
+		"url": "https://crossbrowsertesting.com/blog/selenium/new-features-selenium-3/",
+		"domain": "crossbrowsertesting.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ZXu9116Wmr00KissGIMrpot123kfK116BjRSM11699tJoPIn131O123klHxcI5o3coa7SGOG9RozTWIlZsVDxKAPLIYYdJCg117117",
+		"item_date": "2017-04-07 00:00:00",
+		"title": "Can Service Virtualization Boost Agile Testing Strategy",
+		"url": "https://dzone.com/articles/can-service-virtualization-boost-agile-testing-str?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+dzone",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "E1123ucktMDGqaiLMc6NC316aMiUWrnW2OKg6J3123oBQKpsEI4DKZ7rCf5oyvVB94njrOZNoLpc1givFqx8tZ03ww117117",
+		"item_date": "2017-04-05 00:00:00",
+		"title": "A Winning Recipe for Open Source Test Automation Frameworks",
+		"url": "https://dzone.com/articles/a-winning-recipe-for-open-source-test-automation-f",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Ld7wnBj123BRPGNs0Nj9oFG2YtgvYgJgxZMOb05pfUPMSviBOiaBxGMUDdphJp3dHLl9pTmRO8JbmzwtJLvDJKdg117117",
+		"item_date": "2017-04-03 00:00:00",
+		"title": "Using xUnit MSTest or NUnit to Test NET Core libraries",
+		"url": "https://dzone.com/articles/using-xunit-mstest-or-nunit-to-test-net-core-libra",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
 		"curated_id": "ex7lPpfeWKhsqlqCidx123411SHcJazqQH4MPEPF123w8xJcnoigFSWasr1XDnSTPUL2XBVuOZTvr2OA4Dixurjidg117117",
 		"item_date": "2017-03-13 13:20:55",
 		"title": "Write API Tests with Postman and Newman",
