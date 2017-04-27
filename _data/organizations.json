@@ -85,7 +85,7 @@
 			"Testing",
 			"Studio",
 			"Design",
-			"Client"
+			"Clients"
 		]
 	},
 	{
@@ -130,6 +130,26 @@
 		]
 	},
 	{
+		"id": "3AafeNSx3zXtLAwSkzYPMVOHLHIncmz8c31tucWsErCUVuWMjP0LI2sRFxXXFnYogOF665l52YPE8Px2Y116wITQ117117",
+		"name": "Assertible",
+		"summary": "Gain confidence in crucial infrastructure by using Assertibles automated QA tools to test and monitor your web services across deployments and environments. Reduce bugs in web applications by using Assertible to create an automated QA pipeline that helps you catch failures u0026amp; ship code faster.",
+		"details": "Gain confidence in crucial infrastructure by using Assertibles automated QA tools to test and monitor your web services across deployments and environments. Reduce bugs in web applications by using Assertible to create an automated QA pipeline that helps you catch failures u0026amp; ship code faster.",
+		"website": null,
+		"twitter": null,
+		"github": null,
+		"apisjson_url": "",
+		"portal_url": null,
+		"base_url": "",
+		"blog": null,
+		"blogrss": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen Shot 2017-04-27 at 1.26.20 PM.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen Shot 2017-04-27 at 1.26.20 PM.png",
+		"tags": [
+			"Testing"
+		]
+	},
+	{
 		"id": "OsTyo5123g4yAn0YzHa1238ip5JSufhoHAaAhN5xqgqpsrDGblS2nmuJ2Q0oN4fhsHwi4ZwnPMTJsrY94CONS123qQmw117117",
 		"name": "AWS X-Ray",
 		"summary": "AWS X-Ray helps developers analyze and debug production, distributed applications, such as those built using a microservices architecture. With X-Ray, you can understand how your application and its underlying services are performing to identify and troubleshoot the root cause of performance issues and errors. X-Ray provides an end-to-end view of requests as they travel through your application, a",
@@ -150,6 +170,51 @@
 			"Orchestration",
 			"Monitoring",
 			"Amazon Web Services"
+		]
+	},
+	{
+		"id": "i8tt65vidFGmBYWFrg9iAlYDIAlnp6P9uBl8y9SuQjlfG116X0UBgwzCFVZYzmtE8ICSGr1230OyYOSln116aj123j6ATQ117117",
+		"name": "Azure Application Insights",
+		"summary": false,
+		"details": "",
+		"website": null,
+		"twitter": null,
+		"github": null,
+		"apisjson_url": null,
+		"portal_url": null,
+		"base_url": null,
+		"blog": null,
+		"blogrss": null,
+		"logo": null,
+		"logo_width": null,
+		"screenshot": null,
+		"tags": [
+			"Testing",
+			"Monitoring",
+			"Microsoft",
+			"Diagnostics"
+		]
+	},
+	{
+		"id": "UdZeLw9N5JQm84HU9jxaABCBTmRbUKPrFUNZaMirlTKVcJRlcAMhlfUe116gHhT4Okwh5Og9NzyWUnz3PGaz4UMA117117",
+		"name": "Azure DevTest Labs",
+		"summary": "Azure DevTest Labs makes it easy to quickly create environments to deploy and test applications. Use reusable templates and artifacts to build Windows and Linux environments while minimalizing waste and controlling costs.",
+		"details": "Azure DevTest Labs makes it easy to quickly create environments to deploy and test applications. Use reusable templates and artifacts to build Windows and Linux environments while minimalizing waste and controlling costs.",
+		"website": null,
+		"twitter": null,
+		"github": null,
+		"apisjson_url": null,
+		"portal_url": null,
+		"base_url": null,
+		"blog": null,
+		"blogrss": null,
+		"logo": null,
+		"logo_width": null,
+		"screenshot": null,
+		"tags": [
+			"Testing",
+			"Orchestration",
+			"Microsoft"
 		]
 	},
 	{
@@ -191,10 +256,31 @@
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/blaze_meter.png",
 		"tags": [
-			"Testing-Stack",
 			"Testing",
-			"Performance",
-			"API-Stack"
+			"Testing",
+			"Performance"
+		]
+	},
+	{
+		"id": "HQ4Zl2YagBLhehe116cc53MPEKt2Rc5cJV09GeaeJxCIy9OP2123fjttsHek0CsaIf8SUvMzF1jsIisi81PZG1koIA117117",
+		"name": "BlazeMeter",
+		"summary": "BlazeMeter is a self-service, load testing platform (PaaS) for developers providing an enterprise grade, out-of-the-box load testing solution. Start testing in under five minutes. BlazeMeter significantly simplifies the load testing process by providing developers easy integration into their native development environment.",
+		"details": "BlazeMeter is a self-service, load testing platform (PaaS) for developers providing an enterprise grade, out-of-the-box load testing solution. Start testing in under five minutes. BlazeMeter significantly simplifies the load testing process by providing developers easy integration into their native development environment.",
+		"website": "http://apis.how/a5u4mkwniq",
+		"twitter": null,
+		"github": null,
+		"apisjson_url": "http://theapistack.com/data/blazemeter/apis.json",
+		"portal_url": null,
+		"base_url": "",
+		"blog": null,
+		"blogrss": null,
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/blaze_meter.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/blaze_meter.png",
+		"tags": [
+			"Testing",
+			"Testing",
+			"Performance"
 		]
 	},
 	{
@@ -216,9 +302,8 @@
 		"tags": [
 			"Testing",
 			"Detection",
-			"Code-Stack",
-			"Bug",
-			"API-Stack"
+			"Code",
+			"Bug"
 		]
 	},
 	{
@@ -439,8 +524,7 @@
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/loader-io.png",
 		"tags": [
 			"Testing",
-			"Performance",
-			"API-Stack"
+			"Performance"
 		]
 	},
 	{
@@ -504,7 +588,6 @@
 		"logo_width": null,
 		"screenshot": null,
 		"tags": [
-			"Women; Girls; Nasa; Education Outreach",
 			"Women",
 			"Weather Modeling",
 			"Weather",
@@ -560,7 +643,6 @@
 			"Nasa Langley",
 			"Nasa Inventors",
 			"Nasa Innovation",
-			"Nasa Goddard Space Flight Center",
 			"Nasa Goddard",
 			"NASA",
 			"Museums",
@@ -607,8 +689,7 @@
 			"Astrophysics",
 			"Ames",
 			"Air",
-			"Agreements",
-			"#iss"
+			"Agreements"
 		]
 	},
 	{
@@ -672,7 +753,8 @@
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/postman-rest-logo.png",
 		"tags": [
 			"Testing",
-			"Client",
+			"Definitions",
+			"Clients",
 			"Chrome"
 		]
 	},
@@ -739,7 +821,7 @@
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/restlet-dhc-logo.jpg",
 		"tags": [
 			"Testing",
-			"Client"
+			"Clients"
 		]
 	},
 	{
@@ -779,12 +861,11 @@
 		"logo_width": "250",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/runscope-logo.png",
 		"tags": [
-			"Testing-Stack",
+			"Testing",
 			"Testing",
 			"My API Stack",
-			"Monitoring-Stack",
 			"Monitoring",
-			"API-Stack",
+			"Monitoring",
 			"API LIfeycle"
 		]
 	},
@@ -834,7 +915,7 @@
 			"Studio",
 			"Proxy",
 			"Design",
-			"Client",
+			"Clients",
 			"API LIfeycle"
 		]
 	},
