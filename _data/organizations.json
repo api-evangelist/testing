@@ -17,6 +17,7 @@
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-fortress.png",
 		"tags": [
 			"Testing",
+			"Stack Network",
 			"Monitoring"
 		]
 	},
@@ -38,6 +39,7 @@
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apibond-logo.png",
 		"tags": [
 			"Testing",
+			"Stack Network",
 			"Monitoring",
 			"Aggregation"
 		]
@@ -84,6 +86,7 @@
 			"Virtualization",
 			"Testing",
 			"Studio",
+			"Stack Network",
 			"Design",
 			"Clients"
 		]
@@ -105,7 +108,8 @@
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-test-io-logo.png",
 		"tags": [
-			"Testing"
+			"Testing",
+			"Stack Network"
 		]
 	},
 	{
@@ -132,8 +136,8 @@
 	{
 		"id": "3AafeNSx3zXtLAwSkzYPMVOHLHIncmz8c31tucWsErCUVuWMjP0LI2sRFxXXFnYogOF665l52YPE8Px2Y116wITQ117117",
 		"name": "Assertible",
-		"summary": "Gain confidence in crucial infrastructure by using Assertibles automated QA tools to test and monitor your web services across deployments and environments. Reduce bugs in web applications by using Assertible to create an automated QA pipeline that helps you catch failures u0026amp; ship code faster.",
-		"details": "Gain confidence in crucial infrastructure by using Assertibles automated QA tools to test and monitor your web services across deployments and environments. Reduce bugs in web applications by using Assertible to create an automated QA pipeline that helps you catch failures u0026amp; ship code faster.",
+		"summary": "Gain confidence in crucial infrastructure by using Assertibles automated QA tools to test and monitor your web services across deployments and environments. Reduce bugs in web applications by using Assertible to create an automated QA pipeline that helps you catch failures and ship code faster.",
+		"details": "Gain confidence in crucial infrastructure by using Assertibles automated QA tools to test and monitor your web services across deployments and environments. Reduce bugs in web applications by using Assertible to create an automated QA pipeline that helps you catch failures and ship code faster.",
 		"website": null,
 		"twitter": null,
 		"github": null,
@@ -153,7 +157,7 @@
 		"id": "OsTyo5123g4yAn0YzHa1238ip5JSufhoHAaAhN5xqgqpsrDGblS2nmuJ2Q0oN4fhsHwi4ZwnPMTJsrY94CONS123qQmw117117",
 		"name": "AWS X-Ray",
 		"summary": "AWS X-Ray helps developers analyze and debug production, distributed applications, such as those built using a microservices architecture. With X-Ray, you can understand how your application and its underlying services are performing to identify and troubleshoot the root cause of performance issues and errors. X-Ray provides an end-to-end view of requests as they travel through your application, a",
-		"details": "AWS X-Ray helps developers analyze and debug production, distributed applications, such as those built using a microservices architecture. With X-Ray, you can understand how your application and its underlying services are performing to identify and troubleshoot the root cause of performance issues and errors. X-Ray provides an end-to-end view of requests as they travel through your application, and shows a map of your applicationu0026rsquo;s underlying components. You can use X-Ray to analyze both applications in development and in production, from simple three-tier applications to complex microservices applications consisting of thousands of services.",
+		"details": "AWS X-Ray helps developers analyze and debug production, distributed applications, such as those built using a microservices architecture. With X-Ray, you can understand how your application and its underlying services are performing to identify and troubleshoot the root cause of performance issues and errors. X-Ray provides an end-to-end view of requests as they travel through your application, and shows a map of your applications underlying components. You can use X-Ray to analyze both applications in development and in production, from simple three-tier applications to complex microservices applications consisting of thousands of services.",
 		"website": null,
 		"twitter": "",
 		"github": "",
@@ -167,6 +171,7 @@
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-xray.png",
 		"tags": [
 			"Testing",
+			"Stack Network",
 			"Orchestration",
 			"Monitoring",
 			"Amazon Web Services"
@@ -175,21 +180,22 @@
 	{
 		"id": "i8tt65vidFGmBYWFrg9iAlYDIAlnp6P9uBl8y9SuQjlfG116X0UBgwzCFVZYzmtE8ICSGr1230OyYOSln116aj123j6ATQ117117",
 		"name": "Azure Application Insights",
-		"summary": false,
-		"details": "",
+		"summary": "Get rich performance monitoring, powerful alerting, and easy-to-consume dashboards to help ensure your applications are available and performing as you expect. Quickly see if you have a problem, how many customers are affected, and perform a root cause analysis to find and fix the issue.",
+		"details": "Get rich performance monitoring, powerful alerting, and easy-to-consume dashboards to help ensure your applications are available and performing as you expect. Quickly see if you have a problem, how many customers are affected, and perform a root cause analysis to find and fix the issue.",
 		"website": null,
-		"twitter": null,
-		"github": null,
-		"apisjson_url": null,
-		"portal_url": null,
-		"base_url": null,
-		"blog": null,
-		"blogrss": null,
-		"logo": null,
-		"logo_width": null,
-		"screenshot": null,
+		"twitter": "",
+		"github": "",
+		"apisjson_url": "",
+		"portal_url": "",
+		"base_url": "",
+		"blog": "",
+		"blogrss": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/performance-management.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/performance-management.png",
 		"tags": [
 			"Testing",
+			"Stack Network",
 			"Monitoring",
 			"Microsoft",
 			"Diagnostics"
@@ -201,27 +207,28 @@
 		"summary": "Azure DevTest Labs makes it easy to quickly create environments to deploy and test applications. Use reusable templates and artifacts to build Windows and Linux environments while minimalizing waste and controlling costs.",
 		"details": "Azure DevTest Labs makes it easy to quickly create environments to deploy and test applications. Use reusable templates and artifacts to build Windows and Linux environments while minimalizing waste and controlling costs.",
 		"website": null,
-		"twitter": null,
-		"github": null,
-		"apisjson_url": null,
-		"portal_url": null,
-		"base_url": null,
-		"blog": null,
-		"blogrss": null,
-		"logo": null,
-		"logo_width": null,
-		"screenshot": null,
+		"twitter": "",
+		"github": "",
+		"apisjson_url": "",
+		"portal_url": "",
+		"base_url": "",
+		"blog": "",
+		"blogrss": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-devtest-integrate.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-devtest-integrate.png",
 		"tags": [
 			"Testing",
+			"Stack Network",
 			"Orchestration",
 			"Microsoft"
 		]
 	},
 	{
 		"id": "RoGx116Fc88cgVjEqUXuD116i9WDMednOZbG1AKK18lelf4FoEViZeS2yy3116oAH3pONb116bJMuq8ZHkAOA123fSX7IDtQ117117",
-		"name": "BAD TESTINGu00ae",
-		"summary": "BAD TESTINGu0026reg; offers software testing consulting services u0026amp; helps you manage risks associated with technology changes. We offeru0026nbsp;an advanced and versatile skill set in software quality assurance, testing, and configuration to ensure effective and on time product releases. We are experts at testing and evaluating both hardware and software products to identify and resolve all potential i",
-		"details": "BAD TESTINGu0026reg; offers software testing consulting services u0026amp; helps you manage risks associated with technology changes. We offeru0026nbsp;an advanced and versatile skill set in software quality assurance, testing, and configuration to ensure effective and on time product releases. We are experts at testing and evaluating both hardware and software products to identify and resolve all potential issues for both start upu0026rsquo;s or established environments.",
+		"name": "BAD TESTING",
+		"summary": "BAD TESTING offers software testing consulting services and helps you manage risks associated with technology changes. We offeru00a0an advanced and versatile skill set in software quality assurance, testing, and configuration to ensure effectively and on time product releases. We are experts at testing and evaluating both hardware and software products to identify and resolve all potential issues for",
+		"details": "BAD TESTING offers software testing consulting services and helps you manage risks associated with technology changes. We offeru00a0an advanced and versatile skill set in software quality assurance, testing, and configuration to ensure effectively and on time product releases. We are experts at testing and evaluating both hardware and software products to identify and resolve all potential issues for both start ups or established environments.",
 		"website": "http://apis.how/rl8agxxcqh",
 		"twitter": null,
 		"github": "",
@@ -258,6 +265,7 @@
 		"tags": [
 			"Testing",
 			"Testing",
+			"Stack Network",
 			"Performance"
 		]
 	},
@@ -280,6 +288,7 @@
 		"tags": [
 			"Testing",
 			"Testing",
+			"Stack Network",
 			"Performance"
 		]
 	},
@@ -323,7 +332,8 @@
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/catch_logo.gif",
 		"tags": [
-			"Testing"
+			"Testing",
+			"Stack Network"
 		]
 	},
 	{
@@ -368,6 +378,7 @@
 		"tags": [
 			"Virtualization",
 			"Testing",
+			"Stack Network",
 			"Security",
 			"API Gateways"
 		]
@@ -411,6 +422,7 @@
 		"tags": [
 			"Virtualization",
 			"Testing",
+			"Stack Network",
 			"Security",
 			"Real Time",
 			"Links",
@@ -458,7 +470,8 @@
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/frisby-js.png",
 		"tags": [
-			"Testing"
+			"Testing",
+			"Stack Network"
 		]
 	},
 	{
@@ -479,6 +492,7 @@
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-stackdriver-debugger.png",
 		"tags": [
 			"Testing",
+			"Stack Network",
 			"Monitoring",
 			"Logging",
 			"Google APIs",
@@ -524,6 +538,7 @@
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/loader-io.png",
 		"tags": [
 			"Testing",
+			"Stack Network",
 			"Performance"
 		]
 	},
@@ -732,7 +747,8 @@
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/parasoft-logo.png",
 		"tags": [
 			"Virtualization",
-			"Testing"
+			"Testing",
+			"Stack Network"
 		]
 	},
 	{
@@ -753,6 +769,7 @@
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/postman-rest-logo.png",
 		"tags": [
 			"Testing",
+			"Stack Network",
 			"Definitions",
 			"Clients",
 			"Chrome"
@@ -776,6 +793,7 @@
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/rest-united.png",
 		"tags": [
 			"Testing",
+			"Stack Network",
 			"SDK",
 			"Documentation",
 			"Debugging",
@@ -841,7 +859,8 @@
 		"logo_width": "225",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/therightapi-logo-2.png",
 		"tags": [
-			"Testing"
+			"Testing",
+			"Stack Network"
 		]
 	},
 	{
@@ -863,6 +882,7 @@
 		"tags": [
 			"Testing",
 			"Testing",
+			"Stack Network",
 			"My API Stack",
 			"Monitoring",
 			"Monitoring",
@@ -888,6 +908,7 @@
 		"tags": [
 			"Virtualization",
 			"Testing",
+			"Stack Network",
 			"Security",
 			"Performance",
 			"Monitoring",
@@ -937,7 +958,8 @@
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/vrsest-logo.png",
 		"tags": [
 			"Virtualization",
-			"Testing"
+			"Testing",
+			"Stack Network"
 		]
 	}
 ]
