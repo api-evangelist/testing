@@ -1,5 +1,21 @@
 [
 	{
+		"curated_id": "RzTlCa2123012307vNJpEwiqrls68e0SCUA2nBnkGHARMSX9xpf44JjQQF9l116SNd9cBkHo87eJ4Mdd0yBjOki0QwjQ117117",
+		"item_date": "2017-05-04 00:00:00",
+		"title": "Getting Started with API Load Testing",
+		"url": "http://blog.smartbear.com/software-quality/getting-started-with-api-load-testing/",
+		"domain": "blog.smartbear.com",
+		"image": ""
+	},
+	{
+		"curated_id": "M8PsW6Th4TbQ9kjo4930yJA4wquvzHZrF89vXOOknuy9ELBBkollqaeZDyLHuAjwZqFJPFYA5VPdbLv8ByXzGg117117",
+		"item_date": "2017-05-02 09:00:25",
+		"title": "Test Your Smart Home Skill API Responses with Our New Validation Package",
+		"url": "https://developer.amazon.com/blogs/alexa/post/eaf859ff-043d-48ad-b347-02f755bdae99/validating-smart-home-skill-api-responses",
+		"domain": "developer.amazon.com",
+		"image": ""
+	},
+	{
 		"curated_id": "eLDz5GDYskFwtyEyNayfb123d9J83Or8JheiN7V123BHjnbWSaiYVOsw5aKchPmo9bh7p2sSZ7CyAeftWJpfPhOeaA117117",
 		"item_date": "2017-04-27 11:53:09",
 		"title": "Tweet Tutorial Continuous Integration with Codeship and Runscope API Tests httpstco5jvfcdq6C5",
