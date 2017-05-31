@@ -1,1071 +1,514 @@
-- slug: 3scale
-  name: 3scale
+- slug: api-fortress
+  name: API Fortress
   description: >-
-    3Scale provides plug-and-play as well as enterprise level API management
-    services. 3Scale is similar to 3Scale connect is a starter platform with a
-    freemium model for delivering your API. You can deploy at no cost, and
-    pay-as-you-go based upon the volume of calls made on your API. This model is
-    well suited to those who are not sure of their API business model or target
-    audience &mdash; or are just looking to test the waters.
-  url: 'http://www.3scale.net'
+    Test. Monitor. Automate: API Fortress is an enterprise cloud solution to
+    test, monitor, and automate the testing of APIs and web services. Create a
+    response validation test using our simple wizard, schedule the test to run
+    multiple times a day, and monitor the updates sent to your inbox.
+  url: 'http://apifortress.com'
   short_url: ''
-  twitter: 'https://twitter.com/3scale'
-  blog: 'http://www.3scale.net/blog/'
-  blog_rss: 'http://www.3scale.net/feed/'
-  github: 'https://github.com/3scale'
+  twitter: 'https://twitter.com/apifortress'
+  blog: 'http://apifortress.com/blog/'
+  blog_rss: ''
+  github: ''
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/3scale-logo.jpg
-  tags: 'Management,Management,My API Stack,Imports,Portal'
-- slug: akana
-  name: Akana
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-fortress.png
+  tags: 'Testing,Monitoring'
+- slug: apibond.com
+  name: apibond.com
   description: >-
-    Akana helps businesses accelerate digital transformation by securely
-    extending their reach across multiple channels &ndash; mobile, cloud and
-    Internet of Things. Akana enables enterprises to share data as APIs, connect
-    and integrate applications, drive partner adoption, monetize their assets,
-    and provide intelligent insights into their business and operations.
-  url: 'http://www.akana.com/'
+    APIBond is an API management platform that acts as a proxy where you can
+    validate, transform, secure, analyze and scale any existing API.
+  url: 'http://apibond.com/'
   short_url: ''
-  twitter: 'https://twitter.com/AkanaInc'
-  blog: 'https://blog.akana.com/'
-  blog_rss: 'https://blog.akana.com/feed/'
-  github: 'https://github.com/akanainc'
+  twitter: 'https://twitter.com/apibond'
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apibond-logo.png
+  tags: 'Monitoring,Aggregation,Testing'
+- slug: apica
+  name: Apica
+  description: >-
+    Apica provides the most effective technology for optimizing the performance
+    of cloud and mobile applications. Apica offers companies and developers
+    alike easy-to-use, cloud-based load testing and web performance monitoring
+    tools to test applications for maximum capacity, daily performance, improved
+    load times, and protection from peak loads. For more information about how
+    Apica is providing the highest standard for cloud and mobile application
+    performance management.
+  url: 'https://www.apicasystem.com'
+  short_url: ''
+  twitter: 'https://twitter.com/apicasystems'
+  blog: 'https://www.apicasystem.com/blog/'
+  blog_rss: 'https://www.apicasystem.com/feed/'
+  github: 'https://github.com/ApicaSystem'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apica-logo.png
+  tags: 'Monitoring,Testing,Performance'
+- slug: apigee-api-studio
+  name: Apigee API Studio
+  description: >-
+    Apigee launched their API Studio out of their earlier Apigee-127 product,
+    their work on the Swagger platform and editor, and their BaaS offering. The
+    new studio opens up the ability for developers to design, mock, test and
+    share via their online open source based platform.
+  url: 'http://apistudio.io/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-studio-logo.png
+  tags: 'Design,Testing,Virtualization,Clients,Studio'
+- slug: apitest.io
+  name: APITest.IO
+  description: >-
+    apiTest.io is the new testing tool to test all your API requests, easy to
+    use with request and results saving. With our preconfigured API calls it is
+    easy to test some popular websites or your own HTTP(s), REST, SOAP, OAUTH
+    server.
+  url: 'https://www.apitest.io/'
+  short_url: ''
+  twitter: 'https://twitter.com/apitest_io'
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-test-io-logo.png
+  tags: Testing
+- slug: apitools
+  name: APItools
+  description: >-
+    Building Apps that depend on APIs speeds up development and helps make
+    software all-round more awesome. However, tracking and managing traffic
+    flows to these APIs, reacting if they slow down or fail, dealing with
+    version changes and the like can add massive overhead to development and
+    operations.
+  url: 'https://www.apitools.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/apitools'
+  blog: 'http://docs.apitools.com/blog/'
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apitools-logo.png
+  tags: 'Testing,API Proxy'
+- slug: assertible
+  name: Assertible
+  description: >-
+    Gain confidence in crucial infrastructure by using Assertible's automated QA
+    tools to test and monitor your web services across deployments and
+    environments. Reduce bugs in web applications by using Assertible to create
+    an automated QA pipeline that helps you catch failures and ship code faster.
+  url: 'https://assertible.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/AssertibleApp'
+  blog: 'https://assertible.com/blog'
+  blog_rss: ''
+  github: 'https://github.com/assertible'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
+    Shot 2017-04-27 at 1.26.20 PM.png
+  tags: Testing
+- slug: aws-xray
+  name: AWS X-Ray
+  description: >-
+    AWS X-Ray helps developers analyze and debug production, distributed
+    applications, such as those built using a microservices architecture. With
+    X-Ray, you can understand how your application and its underlying services
+    are performing to identify and troubleshoot the root cause of performance
+    issues and errors. X-Ray provides an end-to-end view of requests as they
+    travel through your application, and shows a map of your applications
+    underlying components. You can use X-Ray to analyze both applications in
+    development and in production, from simple three-tier applications to
+    complex microservices applications consisting of thousands of services.
+  url: 'https://aws.amazon.com/xray/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-xray.png
+  tags: 'Amazon Web Services,Monitoring,Testing,Orchestration'
+- slug: azure-application-insights
+  name: Azure Application Insights
+  description: >-
+    Get rich performance monitoring, powerful alerting, and easy-to-consume
+    dashboards to help ensure your applications are available and performing as
+    you expect. Quickly see if you have a problem, how many customers are
+    affected, and perform a root cause analysis to find and fix the issue.
+  url: 'https://azure.microsoft.com/en-us/services/application-insights/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/performance-management.png
+  tags: 'Microsoft,Monitoring,Testing,Diagnostics'
+- slug: azure-devtest-labs
+  name: Azure DevTest Labs
+  description: >-
+    Azure DevTest Labs makes it easy to quickly create environments to deploy
+    and test applications. Use reusable templates and artifacts to build Windows
+    and Linux environments while minimalizing waste and controlling costs.
+  url: 'https://azure.microsoft.com/en-us/services/devtest-lab/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-devtest-integrate.png
+  tags: 'Testing,Microsoft,Orchestration'
+- slug: bad-testing
+  name: BAD TESTING
+  description: "BAD TESTING offers software testing consulting services and helps you manage risks associated with technology changes. We offer\_an advanced and versatile skill set in software quality assurance, testing, and configuration to ensure effectively and on time product releases. We are experts at testing and evaluating both hardware and software products to identify and resolve all potential issues for both start ups or established environments."
+  url: 'http://www.badtesting.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/BadTesting'
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/bad-testing-logo.png
+  tags: 'Testing,Chicago,Blog'
+- slug: blazemeter
+  name: BlazeMeter
+  description: >-
+    BlazeMeter is a self-service, load testing platform (PaaS) for developers
+    providing an enterprise grade, out-of-the-box load testing solution. Start
+    testing in under five minutes. BlazeMeter significantly simplifies the load
+    testing process by providing developers easy integration into their native
+    development environment.
+  url: 'http://blazemeter.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/BlazeMeter'
+  blog: 'http://blazemeter.com/blog'
+  blog_rss: 'http://feedburner.google.com/fb/a/mailverify?uri=JmeterCloudBlog'
+  github: 'https://github.com/Blazemeter'
   image: ''
-  tags: 'Enterprise,Management,Security,Portal,Deployment,Gateway'
-- slug: amazon-web-services
-  name: Amazon Web Services
+  tags: 'Testing,Testing,Performance'
+- slug: bugbuster
+  name: BugBuster
   description: >-
-    Amazon Web Services(AWS) is a collection of remote computing services (also
-    called web services) that together make up a cloud computing platform,
-    offered over the Internet by Amazon.com. The most central and well-known of
-    these services are Amazon EC2 and Amazon S3. The service is advertised as
-    providing a large computing capacity (potentially many servers) much faster
-    and cheaper than building a physical server farm.
-  url: 'http://aws.amazon.com'
+    BugBuster provides a full suite of functional testing tools. We make it easy
+    to build functional tests and automate the repetitive manual testing of your
+    site.
+  url: 'http://bugbuster.com/'
   short_url: ''
-  twitter: 'https://twitter.com/awscloud'
-  blog: 'http://aws.amazon.com/blogs/aws/'
-  blog_rss: 'http://feeds.feedburner.com/AmazonWebServicesBlog'
-  github: 'https://github.com/amazonwebservices'
+  twitter: 'https://twitter.com/BugBuster_Inc'
+  blog: 'http://blog.bugbuster.com/'
+  blog_rss: 'http://blog.bugbuster.com/feed/'
+  github: ''
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/amazon-aws-logo.jpg
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/2039_logo.png
+  tags: 'Bug,Detection,Code,Testing'
+- slug: catch-software
+  name: Catch Software
+  description: >-
+    Catch Software makes test management software, execution and integration
+    tools that help QA professionals get more out of their testing effort. Our
+    flagship product, Enterprise Tester, is test management software which was
+    released in early 2009 and is built by QA professionals for QA
+    professionals, Enterprise Tester provides testers with easy management of
+    test plans, execution sets, requirements, and incidents.
+  url: 'http://catchsoftware.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/catchsoftware'
+  blog: 'http://catchsoftware.com/blogs/'
+  blog_rss: 'http://catchsoftware.com/blogs/feed/'
+  github: 'https://github.com/catch-software'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/catch_logo.gif
+  tags: Testing
+- slug: crossbrowsertesting
+  name: CrossBrowserTesting
+  description: >-
+    Test your website in dozens of browsers and real devices with instant
+    results. Over one thousand combinations of browsers, OSs, and devices. With
+    CrossBrowserTesting.com, you can test your sites on more than 1500 browsers
+    across more than 65 operating systems, including iOS, Android, Windows, Mac
+    and more.
+  url: 'http://crossbrowsertesting.com'
+  short_url: ''
+  twitter: 'https://twitter.com/xbrowsertesting'
+  blog: 'http://crossbrowsertesting.com/blog'
+  blog_rss: 'http://crossbrowsertesting.com/blog/feed'
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cbt-logo.png
+  tags: 'Performance,Projects,Testing,Browser Testing'
+- slug: crosscheck-networks
+  name: Crosscheck Networks
+  description: >-
+    Crosscheck Networks is the global leader in API Testing, Simulation, and
+    Gateway technologies with product deployments in over 50,000 customer
+    networks worldwide. Comprehensive API testing includes functional
+    automation, performance, compliance and security testing with patented
+    dynamic mutation technology.
+  url: 'http://www.crosschecknet.com/'
+  short_url: ''
+  twitter: ''
+  blog: 'http://soa-testing.blogspot.com/'
+  blog_rss: 'http://feeds.feedburner.com/soatesting?format=xml'
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cross-check-networks.png
+  tags: 'Testing,Security,Virtualization,API Gateways'
+- slug: cucumber
+  name: Cucumber
+  description: >-
+    Cucumber lets software development teams describe how software should behave
+    in plain text. The text is written in a business-readable domain-specific
+    language and serves as documentation, automated tests and development-aid -
+    all rolled into one format.
+  url: 'https://cucumber.io/'
+  short_url: ''
+  twitter: ''
+  blog: 'https://cucumber.io/blog'
+  blog_rss: 'https://cucumber.io/feed.xml'
+  github: 'https://github.com/cucumber'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Cucumber.png
+  tags: Testing
+- slug: firebase
+  name: Firebase
+  description: >-
+    Firebase is a mobile platform that helps you
+    quickly&nbsp;develop&nbsp;high-quality apps,&nbsp;grow&nbsp;your user base,
+    and&nbsp;earn&nbsp;more money. Firebase is made up of complementary features
+    that you can mix-and-match to fit your needs.
+  url: 'https://firebase.google.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/firebase'
+  blog: 'https://firebase.googleblog.com/'
+  blog_rss: 'http://firebase.googleblog.com/feeds/posts/default?alt=rss'
+  github: 'https://github.com/firebase'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/firebase-logo.png
   tags: >-
-    Storage,DNS,BaaS,Payments,Hypermedia,Cloud,Compute,My API
-    Stack,Management,Voice,Partners,Plans,API LIfeycle,Real
-    Time,Serverless,Advertising,Commerce,Database,Command Line Interface,DNS
-    Cloud,Getting Started,Orchestration
-- slug: api-plug
-  name: API Plug
+    Real Time,API LIfeycle,Database,Command Line Interface,Links,Google
+    APIs,Security,Testing,Virtualization
+- slug: flood-io
+  name: Flood IO
   description: >-
-    MySQL, MongoDB, MsSQL. Use API PLUG with different data sources easily. Your
-    Data, Your Cloud. You do not have to hand over your API ownership. Have
-    total control over final product. Deployment Ready. Either get source files,
-    or get a fully optimised Docker container.
-  url: 'https://apiplug.com/'
+    Flood enables you to generate load from any AWS region, using your own
+    account or ours to achieve the most realistic traffic scenarios. We collate
+    all the results for you, so you can spend more time testing. We sort out the
+    infrastructure, so you can spend more time testing. We've built a massive
+    distributed shared nothing infrastructure which lets you scale out on
+    demand. You'll enjoy much better economies of scale on Flood than you can on
+    our competitors.
+  url: 'https://flood.io/'
   short_url: ''
-  twitter: 'https://twitter.com/apiplug'
-  blog: 'https://apiplug.com/blog/'
-  blog_rss: 'https://apiplug.com/blog/feed/'
-  github: 'https://github.com/apiplug'
+  twitter: 'https://twitter.com/flood_io'
+  blog: 'https://blog.flood.io/'
+  blog_rss: 'https://blog.flood.io/rss/'
+  github: 'https://github.com/flood-io'
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-plug-logo.png
-  tags: 'Deployment,Bots,Management'
-- slug: api-umbrella
-  name: API Umbrella
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/flood-io.png
+  tags: 'Testing,Performance'
+- slug: frisby.js
+  name: Frisby.js
   description: >-
-    API Umbrella is an open source API management platform for exposing web
-    service APIs. The basic goal of API Umbrella is to make life easier for both
-    API creators and API consumers. API Umbrella is a proxy that sits in front
-    of your APIs. It can seamlessly add common functionality like api keys, rate
-    limiting, and analytics to any API.
-  url: 'http://nrel.github.io/api-umbrella/'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: 'https://github.com/NREL'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-umbrella-logo.png
-  tags: 'Management,Open Source'
-- slug: apiaxle
-  name: ApiAxle
-  description: "ApiAxle is a proxy that sits on your network, in front of your API(s) and manages things that you shouldn't have to, like rate limiting, authentication and caching. It is fast, open and easy to configure. \_ApiAxle is different to the cloud based services such as Mashery in that it is intended to be installed within your LAN and be managed by you. This means you own your users, you own your data and you can more easily manage costs. ApiAxle is open-source. This means you can modify it as much as you like and contribute changes back. Others will do the same and gradually the system will become all the better for it."
-  url: 'http://apiaxle.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/apiaxle'
-  blog: 'http://blog.apiaxle.com/'
-  blog_rss: 'http://blog.apiaxle.com/feed.xml'
-  github: 'https://github.com/apiaxle'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-axle-logo-3.png
-  tags: 'Deployment,Management,Gateway'
-- slug: apify
-  name: Apify
-  description: >-
-    Apify is a small and powerful open source library that delivers new levels
-    of developer productivity by simplifying the creation of RESTful
-    architectures. It helps development teams deliver quality web services and
-    applications in reduced amounts of time. &nbsp;Web services are a great way
-    to extend your application, however, adding a web API to an existing web
-    application can be a tedious and time-consuming task. Apify takes certain
-    common patterns found in most web services and abstract them so that you can
-    quickly write web APIs without having to write too much code.
-  url: 'http://www.apifydoc.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/api_fy'
-  blog: ''
-  blog_rss: 'http://www.apifydoc.com/posts/recent.rss'
-  github: 'https://github.com/apify'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/apify-logo.png
-  tags: Management
-- slug: apigee
-  name: Apigee
-  description: >-
-    Apigee delivers an intelligent API platform to accelerate the pace of
-    digital business. &nbsp;We help companies - from disruptive start-ups to the
-    Fortune 100 &ndash; use their enterprise data and services to create
-    connected digital experiences for customers, partners and employees. This is
-    digital business.
-  url: 'https://apigee.com'
-  short_url: ''
-  twitter: 'https://twitter.com/Apigee'
-  blog: 'https://blog.apigee.com/front'
-  blog_rss: 'http://apigee.com/about/blog/blog.xml'
-  github: 'https://github.com/apigee'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apigee-logo.png
-  tags: 'BaaS,Management,Deployment,Portal,Gateway'
-- slug: apiman
-  name: apiman
-  description: >-
-    The apiman project brings an open source development methodology to API
-    Management, coupling a rich API design &amp; configuration layer with a
-    blazingly fast runtime. Flexible, policy-based runtime governance for your
-    APIs. Offer the same API through multiple plans, allowing different levels
-    of service to different API consumers. Use the rich management layer (REST
-    API and separate UI) to manage/configure not only APIs but also the
-    applications that consume them.
-  url: 'http://www.apiman.io'
-  short_url: ''
-  twitter: 'https://twitter.com/apiman_io'
-  blog: 'http://www.apiman.io/blog/'
-  blog_rss: 'http://apiman.io/blog/feed.xml'
-  github: 'https://github.com/apiman'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apiman-logo.png
-  tags: 'Management,Open Source'
-- slug: atlassian-confluence
-  name: Atlassian Confluence
-  description: >-
-    Confluence is a wiki used by more than half of Fortune 100 companies to
-    connect people with the content and co-workers they need to get their jobs
-    done, faster. Connect your entire business in one place online to
-    collaborate and capture knowledge &ndash; create, share, and discuss your
-    documents, ideas, minutes, and projects.
-  url: 'https://www.atlassian.com/software/confluence'
+    Frisby is a REST API testing framework built on node.js and Jasmine that
+    makes testing API endpoints easy, fast, and fun. Read below for a quick
+    overview, or check out the API documentation.
+  url: 'http://frisbyjs.com/'
   short_url: ''
   twitter: ''
   blog: ''
   blog_rss: ''
   github: ''
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/confluence_logo_landing.png
-  tags: 'Documentation,Teams,Code Management,Wiki,Portal'
-- slug: aws-cloudformation
-  name: AWS CloudFormation
-  description: "AWS CloudFormation gives developers and systems administrators an easy way to create and manage a collection of related AWS resources, provisioning and updating them in an orderly and predictable fashion. You can use AWS CloudFormations\_sample templates\_or create your own templates to describe the AWS resources, and any associated dependencies or runtime parameters, required to run your application. You do not need to figure out the order for provisioning AWS services or the subtleties of making those dependencies work. CloudFormation takes care of this for you. After the AWS resources are deployed, you can modify and update them in a controlled and predictable way, in effect applying version control to your AWS infrastructure the same way you do with your software. You can also visualize your templates as diagrams and edit them using a drag-and-drop interface with the\_AWS CloudFormation Designer. You can deploy and update a template and its associated collection of resources (called a stack) by using the AWS Management Console, AWS Command Line Interface, or APIs. CloudFormation is available at no additional charge, and you pay only for the AWS resources needed to run your applications."
-  url: 'https://aws.amazon.com/cloudformation/'
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/frisby-js.png
+  tags: Testing
+- slug: google-stackdriver
+  name: Google Stackdriver
+  description: >-
+    Google Stackdriver provides powerful monitoring, logging, and diagnostics.
+    It equips you with insight into the health, performance, and availability of
+    cloud-powered applications, enabling you to find and fix issues faster. It
+    is natively integrated with Google Cloud Platform, Amazon Web Services, and
+    popular open source packages. Stackdriver provides a wide variety of
+    metrics, dashboards, alerting, log management, reporting, and tracing
+    capabilities.
+  url: 'https://cloud.google.com/stackdriver/'
   short_url: ''
   twitter: ''
   blog: ''
   blog_rss: ''
   github: ''
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Management-Tools_AWSCloudFormation.png
-  tags: 'Amazon Web Services,Management,Deployment,Cloud'
-- slug: aws-cloudhsm
-  name: AWS CloudHSM
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-stackdriver-debugger.png
+  tags: 'Monitoring,Testing,Debugging,Google APIs,Logging'
+- slug: gtmetrix
+  name: GTmetrix
   description: >-
-    The AWS CloudHSM service helps you meet corporate, contractual and
-    regulatory compliance requirements for data security by using dedicated
-    Hardware Security Module (HSM) appliances within the AWS cloud. With
-    CloudHSM, you control the encryption keys and cryptographic operations
-    performed by the HSM. AWS and AWS Marketplace partners offer a variety of
-    solutions for protecting sensitive data within the AWS platform, but for
-    applications and data subject to rigorous contractual or regulatory
-    requirements for managing cryptographic keys, additional protection is
-    sometimes necessary. Until now, your only option was to store the sensitive
-    data (or the encryption keys protecting the sensitive data) in your
-    on-premises datacenters. Unfortunately, this either prevented you from
-    migrating these applications to the cloud or significantly slowed their
-    performance. The AWS CloudHSM service allows you to protect your encryption
-    keys within HSMs designed and validated to government standards for secure
-    key management. You can securely generate, store, and manage the
-    cryptographic keys used for data encryption such that they are accessible
-    only by you. AWS CloudHSM helps you comply with strict key management
-    requirements without sacrificing application performance. The AWS CloudHSM
-    service works with Amazon Virtual Private Cloud (VPC). CloudHSM instances
-    are provisioned inside your VPC with an IP address that you specify,
-    providing simple and private network connectivity to your Amazon Elastic
-    Compute Cloud (EC2) instances. Placing CloudHSM instances near your EC2
-    instances decreases network latency, which can improve application
-    performance. AWS provides dedicated and exclusive (single tenant) access to
-    CloudHSM instances, isolated from other AWS customers. Available in multiple
-    Regions and Availability Zones (AZs), AWS CloudHSM allows you to add secure
-    and durable key storage to your applications.
-  url: 'https://aws.amazon.com/cloudhsm/'
+    GTmetrix can help you develop a faster, more efficient, and all-around
+    improved website experience for your users.  Studies show that users leave a
+    site if it hasn&#8217;t loaded in 4 seconds; keep your users happy and
+    engaged by providing a fast performing website!  GTmetrix uses Google Page
+    Speed and Yahoo! YSlow to grade your site&#8217;s performance and provides
+    actionable recommendations to fix these issues.  GTmetrix provides: full
+    video capture of how your site loads from multiple regions around the world,
+    performance monitoring and alerts for when your site dips below a given
+    threshold, easy to use API for integration with other sites, and much more!
+  url: 'http://gtmetrix.com'
   short_url: ''
-  twitter: ''
+  twitter: 'https://twitter.com/gtmetrix'
   blog: ''
+  blog_rss: 'http://gtmetrix.com/news.xml'
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/806_logo.png
+  tags: Performance Testing
+- slug: load-impact
+  name: Load Impact
+  description: >-
+    Load Impact is an online load testing service for websites, web apps, mobile
+    apps and APIs. The service allows users to run load tests over the Internet,
+    rather than having to set up their own load testing infrastructure to run
+    tests. Tests are easily repeatable, with minimum preparation required, which
+    also makes the service a good development/optimization tool.
+  url: 'https://loadimpact.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/loadimpact'
+  blog: 'http://blog.loadimpact.com/'
+  blog_rss: 'http://blog.loadimpact.com/rss.xml'
+  github: 'https://github.com/loadimpact'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/load-impact-logo.png
+  tags: 'Testing,Performance'
+- slug: loader.io
+  name: Loader.io
+  description: >-
+    Loader.io is a free load testing service that allows you to stress test your
+    web-apps/apis with thousands of concurrent connections. We were born out of
+    SendGrid Labs which is a new and growing internal effort at SendGrid. Born
+    in late 2012, SendGrid Labs builds tools and services to help developers
+    focus on their core business. We aim to provide creative and innovative
+    solutions to common developer pain points, to make their lives easier, and
+    to help them scale.
+  url: 'https://loader.io/'
+  short_url: ''
+  twitter: 'https://twitter.com/loaderio'
+  blog: 'http://blog.loader.io/'
   blog_rss: ''
   github: ''
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSCloudHSM.png
-  tags: 'Amazon Web Services,Contracts,Regulations,Management,Encryption'
-- slug: aws-cloudtrail
-  name: AWS CloudTrail
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/loader-io.png
+  tags: 'Testing,Performance'
+- slug: loadfocus
+  name: LoadFocus
   description: >-
-    AWS CloudTrail is a web service that records AWS API calls for your account
-    and delivers log files to you. The recorded information includes the
-    identity of the API caller, the time of the API call, the source IP address
-    of the API caller, the request parameters, and the response elements
-    returned by the AWS service. With CloudTrail, you can get a history of AWS
-    API calls for your account, including API calls made via the AWS Management
-    Console, AWS SDKs, command line tools, and higher-level AWS services (such
-    as AWS CloudFormation). The AWS API call history produced by CloudTrail
-    enables security analysis, resource change tracking, and compliance
-    auditing.
-  url: 'https://aws.amazon.com/cloudtrail/'
+    Load test with thousands of concurrent users. Monitor website uptime and
+    perfomance. Measure website speed and get insights. Run load tests in the
+    Cloud and stress your API with up to 50,000 concurrent users. Inspect
+    results to optimise and improve performance.
+  url: 'https://loadfocus.com/'
   short_url: ''
   twitter: ''
-  blog: ''
+  blog: 'http://loadfocus.com/blog/'
   blog_rss: ''
   github: ''
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Management-Tools_AWSCloudTrail.png
-  tags: 'Amazon Web Services,Logging,Analysis,Management'
-- slug: aws-cloudwatch
-  name: AWS CloudWatch
-  description: >-
-    Amazon CloudWatch is a monitoring service for AWS cloud resources and the
-    applications you run on AWS. You can use Amazon CloudWatch to collect and
-    track metrics, collect and monitor log files, set alarms, and automatically
-    react to changes in your AWS resources. Amazon CloudWatch can monitor AWS
-    resources such as Amazon EC2 instances, Amazon DynamoDB tables, and Amazon
-    RDS DB instances, as well as custom metrics generated by your applications
-    and services, and any log files your applications generate. You can use
-    Amazon CloudWatch to gain system-wide visibility into resource utilization,
-    application performance, and operational health. You can use these insights
-    to react and keep your application running smoothly.
-  url: 'https://aws.amazon.com/cloudwatch/'
-  short_url: ''
-  twitter: ''
-  blog: 'https://aws.amazon.com/cloudwatch/developer-resources/#BlogPosts'
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Management-Tools_AmazonCloudWatch.png
-  tags: 'Monitoring,Amazon Web Services,Analysis,Logging,Management'
-- slug: aws-ec2-systems-manager
-  name: AWS EC2 Systems Manager
-  description: >-
-    Amazon EC2 Systems Manager is a management service that helps you
-    automatically collect software inventory, apply OS patches, create system
-    images, and configure Windows and Linux operating systems. These
-    capabilities help you define and track system configurations, prevent drift,
-    and maintain software compliance of your EC2 and on-premises configurations.
-    By providing a management approach that is designed for the scale and
-    agility of the cloud but extends into your on-premises data center, EC2
-    Systems Manager makes it easier for you to seamlessly bridge your existing
-    infrastructure with AWS. EC2 Systems Manager is easy to use. Simply access
-    EC2 Systems Manager from the EC2 Management Console, select the instances
-    you want to manage, and define the management tasks you want to perform. EC2
-    Systems Manager is available now at no cost to manage both your EC2 and
-    on-premises resources.
-  url: 'https://aws.amazon.com/ec2/systems-manager/'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
-  tags: 'Amazon Web Services,Management,Deployment,Cloud'
-- slug: axway
-  name: Axway
-  description: >-
-    Axway (Euronext: AXW.PA), acquired API Gateway vendor, Vordel, to
-    complement its existing MFT and B2B Gateway products. Axways suite of
-    products enables enterprise to  govern the flow of data within and across
-    the edge of the enterprise,  unlocking the tremendous value this can bring
-    to business interactions. Axway API Management offers the enterprise-grade
-    API management  architecture with the security to protect sensitive data,
-    control access  and support integration to a wide range of on-premise and
-    cloud-based  applications.
-  url: 'https://www.axway.com'
-  short_url: ''
-  twitter: 'https://twitter.com/axway'
-  blog: 'https://www.axway.com/en/blog'
-  blog_rss: 'https://www.axway.com/en//blog/feed'
-  github: 'https://github.com/Axway'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/axway_logo_smaller.gif
-  tags: 'Management,Deployment,Gateway'
-- slug: azure-api-management
-  name: Azure API Management
-  description: >-
-    Use Azure API Management as a turnkey solution for publishing APIs to
-    external and internal customers. Quickly create consistent and modern API
-    gateways for existing back-end services hosted anywhere, secure and protect
-    them from abuse and overuse, and get insights into usage and health. Plus,
-    automate and scale developer onboarding to help get your API program up and
-    running.
-  url: 'https://azure.microsoft.com/en-us/services/api-management/'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-api-management.png
-  tags: 'Microsoft,Management'
-- slug: azure-billing-api
-  name: Azure Billing API
-  description: >-
-    Use Azure Billing APIs to pull usage and resource data into your preferred
-    data analysis tools. The Azure Resource Usage and RateCard APIs can help you
-    accurately predict and manage your costs. The APIs are implemented as a
-    Resource Provider and part of the family of APIs exposed by the Azure
-    Resource Manager.&nbsp;
-  url: >-
-    https://docs.microsoft.com/en-us/azure/billing/billing-usage-rate-card-overview
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-billing-api.png
-  tags: 'Billing,Management,Microsoft,Plans'
-- slug: azure-key-vault
-  name: Azure Key Vault
-  description: >-
-    Azure Key Vault offers an easy, cost-effective way to safeguard keys and
-    other secrets in the cloud by using hardware security modules (HSMs).
-    Protect cryptographic keys and small secrets like passwords with keys stored
-    in HSMs. For added assurance, import or generate your keys in HSMs that are
-    certified to FIPS 140-2 level 2 and Common Criteria EAL4+ standards, so that
-    your keys stay within the HSM boundary. Key Vault is designed so that
-    Microsoft does not see or extract your keys. Create new keys for Dev-Test in
-    minutes and migrate seamlessly to production keys managed by security
-    operations. Key Vault scales to meet the demands of your cloud applications
-    without the hassle required to provision, deploy, and manage HSMs and key
-    management software.
-  url: 'https://azure.microsoft.com/en-us/services/key-vault/'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-enhance-data-protection.png
-  tags: 'Microsoft,Authentication,Security,Management'
-- slug: ca-technologies
-  name: CA Technologies
-  description: >-
-    CA API Management provides the tools any organization needs to integrate and
-    expose legacy systems and applications as APIs. Onboard, enable and manage
-    developers to create apps. Secure enterprise data to meet the toughest
-    compliance and regulatory standards and choose which apps, developers and
-    partners can access your APIs.
-  url: 'http://www.ca.com/us/products/api-management.aspx'
-  short_url: ''
-  twitter: 'https://twitter.com/cainc'
-  blog: 'http://blogs.ca.com/'
-  blog_rss: 'http://blogs.ca.com/feed/'
-  github: 'https://github.com/CATechnologies'
-  image: ''
-  tags: 'Management,API Management Other'
-- slug: connect2field
-  name: Connect2Field
-  description: >-
-    Connect2Field offers: job scheduling software, field service software,
-    service industry software, job dispatch software and mobile job management
-    solutions.  Connect2Field integrates with many different web based
-    applications. Customer contacts and invoices are transferred automatically
-    to reduce office staff administration.
-  url: 'http://www.connect2field.com'
-  short_url: ''
-  twitter: 'https://twitter.com/connect2field'
-  blog: 'http://www.connect2field.com/blog'
-  blog_rss: 'http://www.connect2field.com/feed/'
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/562_logo.jpg
-  tags: 'Scheduling,Job Management'
-- slug: dell-boomi
-  name: Dell Boomi
-  description: >-
-    Dell Boomi, a business unit of Dell, is the first and only integration
-    solution built in the cloud, to fully exploit the value of the cloud.
-    Organizations of all sizes&mdash;from small businesses to the largest global
-    enterprises&mdash;trust Dell Boomi to quickly connect any combination of
-    cloud and on-premises applications. Leading SaaS players and enterprise
-    customers such as salesforce.com, NetSuite, Taleo, oneworld, AAA, and NASDAQ
-    rely on Dell Boomi to accelerate time to market, increase sales, and
-    eliminate the challenges associated with integration.
-  url: 'http://www.boomi.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/boomi'
-  blog: 'http://blogs.boomi.com/bod/'
-  blog_rss: 'http://feeds.feedburner.com/boomi/bod'
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/dell-boomi-logo.png
-  tags: 'Management,API Management Other'
-- slug: deployd
-  name: deployd
-  description: >-
-    An open source platform. Design, build, and scale APIs for web and mobile
-    apps in minutes instead of days. 1) No boilerplate. With one command, your
-    API is up and running. It is an empty canvas waiting for you to add
-    Resources. No boilerplate code necessary. 2) Resources - Deployd APIs are
-    built of plug-and-play resources, such as Collection, which can easily be
-    added and defined through the deployd dashboard. 3) Dashboard - Add and
-    manage your APIs resources through an intuitive web-based dashboard. 4)
-    1-step deploy - When it is time to deploy, easily deploy it yourself
-    anywhere that can host a Node.js app and MongoDB.
-  url: 'http://deployd.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/deploydapp'
-  blog: ''
-  blog_rss: ''
-  github: 'https://github.com/deployd'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/deployd-logo.jpeg
-  tags: 'Deployment,Management,Open Source'
-- slug: dexy
-  name: Dexy
-  description: >-
-    Dexy helps your code to speak for itself. Show off your code with beautiful
-    syntax highlighting. Write examples and Dexy will run them, inserting the
-    output into any document you wish. Everything is based on live code, so
-    updating is easy, syntax errors blow up on you, not your users, and typos
-    are a thing of the past. With Dexy's smart caching, your code is only
-    executed when it needs updating, saving you time while keeping your
-    documents robust.
-  url: 'http://dexy.it/'
-  short_url: ''
-  twitter: ''
-  blog: 'http://blog.dexy.it/'
-  blog_rss: 'http://blog.dexy.it/feed'
-  github: 'https://github.com/dexy'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Dexy-Logo.png
-  tags: 'Documentation,Management'
-- slug: dreamfactory
-  name: DreamFactory
-  description: >-
-    DreamFactory Software is a private, venture-backed company based in
-    Campbell, California, with an additional development center in Atlanta,
-    Georgia. We were founded in 2005 and funded in 2006 by New Enterprise
-    Associates. Today, DreamFactory publishes the DreamFactory Services
-    Platform, an open source REST API platform for mobile application
-    developers.
-  url: 'http://www.dreamfactory.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/dfsoftwareinc'
-  blog: 'http://blog.dreamfactory.com/'
-  blog_rss: 'http://blog.dreamfactory.com/rss.xml'
-  github: 'https://github.com/dreamfactorysoftware'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/dreamfactory.png
-  tags: 'Deployment,Hosting,Platform,Management,Database'
-- slug: elance
-  name: Elance
-  description: >-
-    Elance gives people the freedom to find great jobs and live the life they
-    dream of.   By connecting freelancers with businesses who are looking for
-    skilled professionals, Elance opens up a world of opportunity to those
-    hoping to escape economic situations or find a better work/life balance.
-    Elancers come from all corners of the world and every walk of life. They
-    include cube-weary former Fortune 500 professionals, college students
-    building-up their portfolios by applying the latest skills, victims of
-    “down-sizing” now loving the new-found freedom to pick and choose jobs, and
-    even parents thrilled to spend quality time at home while working rewarding
-    jobs online.  In a nutshell, Elance is where fulfilled people love their
-    lives and love to work.  For more information, visit Elance at
-    www.elance.com.
-  url: 'https://www.elance.com/p/api2'
-  short_url: ''
-  twitter: 'https://twitter.com/#!/elance'
-  blog: 'http://www.elance.com/blog'
-  blog_rss: 'https://www.elance.com/q/blog/feed'
-  github: 'https://github.com/elance'
-  image: ''
-  tags: 'Freelance,Jobs,Recruiting,Job Management,Contracts,Freelance Work'
-- slug: exicon
-  name: Exicon
-  description: >-
-    Exicon is the AppCycle management company that simplifies the creation,
-    deployment and management of mobile applications for some of the world's
-    biggest companies allowing them to accelerate their success in mobile.
-    Through its proprietary AppCycle Management platform, Exicon provides the
-    services and tools to support customers in defining their application needs,
-    finding the best developers, storing all components of the applications,
-    reaching the end users for your application and measuring its performance.
-  url: 'http://www.exiconglobal.com'
-  short_url: ''
-  twitter: 'https://twitter.com/exicon'
-  blog: 'http://www.exiconglobal.com/blog/'
-  blog_rss: 'http://feeds.feedburner.com/ExiconBlog'
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/exicon-logo.png
-  tags: >-
-    Management,Applications,API Management Other,Federal Government,Federal
-    Government,Federal Government,Federal Government
-- slug: fiorano-software
-  name: Fiorano Software
-  description: >-
-    Fiorano powers real time, digital enterprises with a bimodal integration and
-    API Management strategy that leverages the best of systematic (centralized,
-    high-control) and adaptive (federated, high-speed) approaches to deliver
-    solutions across cloud, on-premise and hybrid environments. We provide
-    microservice-centric platform infrastructure with sophisticated integration
-    capabilities, Connecting Anything to Everything.
-  url: 'http://www.fiorano.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/FioranoGlobal'
-  blog: 'http://www.fiorano.com/blog/'
-  blog_rss: 'http://www.fiorano.com/blog/feed/'
-  github: 'https://github.com/FioranoSoftware'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/fiorano-logo.gif
-  tags: 'Management,Microservices,API Management Other'
-- slug: fishbowl
-  name: Fishbowl
-  description: >-
-    Fishbowl Inventory is an inventory management system for small and
-    medium-sized businesses. It is fully compatible with QuickBooks accounting
-    software, and it is the most-requested application by QuickBooks users.
-    Fishbowl helps companies track product manufacturing, movement, location and
-    sales to increase efficiency and reduce supply-chain problems. It improves
-    inventory accuracy through barcode software and hardware.  Fishbowl
-    Manufacturing helps manufacturers create multilevel bills of materials and
-    work orders. Fishbowl Mobile Warehouse lets wholesalers, distributors and
-    retailers pick, pack and ship products quickly. It also allows them to
-    constantly update their database so they know how much inventory they have
-    on hand and when they need to order more.  Fishbowl Inventory is a private
-    company based in Orem, Utah. Many of its clients use its software in
-    conjunction with their existing accounting software, such as QuickBooks. But
-    others, such as Boeing, NASA and the U.S. Army, use Fishbowl Inventory as a
-    standalone inventory management tool.
-  url: 'http://www.fishbowlinventory.com/developer-network/tools'
-  short_url: ''
-  twitter: 'https://twitter.com/fishbowl'
-  blog: 'http://blog.fishbowlinventory.com'
-  blog_rss: 'http://blog.fishbowlinventory.com/feed/'
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/786_logo.jpg
-  tags: 'Enterprise,Inventory,Inventory Management,Distribution,Asset Management'
-- slug: fusio
-  name: Fusio
-  description: >-
-    Fusio is an open source API management platform which helps to build and
-    manage REST APIs. Fusio provides all tools to create an API without writing
-    any backend code still it is possible to easily extend the API if the
-    complexity rises.
-  url: 'http://www.fusio-project.org/'
-  short_url: ''
-  twitter: 'https://twitter.com/FusioAPI'
-  blog: 'http://www.fusio-project.org/blog'
-  blog_rss: ''
-  github: 'https://github.com/apioo'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Fusio_-_Open_source_API_management_platform.png
-  tags: 'Management,Open Source'
-- slug: gelato.io
-  name: Gelato.io
-  description: >-
-    Gelato.io is a tool for creating really great API Documentation and
-    Developer Portals. You can describe your API, import and sync with Swagger
-    or API Blueprint, write awesome guides (or get them written for you), have
-    your developers register and get updates when things change, get an
-    automatic API Explorer - everything a good Documentation Site needs and
-    more!
-  url: 'https://gelato.io/'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/gelato-io-logo.png
-  tags: 'Design,Management,Documentation,Portal,interesting'
-- slug: github
-  name: GitHub
-  description: >-
-    GitHub is a social network for programmers. Git is a distributed software
-    management program created by Linus Torvalds, originally for the Linux
-    Kernel Development. GitHub is a hosted Git repository. Github allows you to
-    take part in collaboration by forking projects, sending and pulling
-    requests, and monitoring development.
-  url: ''
-  short_url: ''
-  twitter: 'https://twitter.com/github'
-  blog: 'http://github.com/blog'
-  blog_rss: 'https://github.com/blog/subscribe'
-  github: 'https://github.com'
-  image: 'https://assets-cdn.github.com/images/modules/logos_page/Octocat.png'
-  tags: >-
-    Social,Coding,Programming,Social,Jobs,Hacker Storytelling,Code,Platform,My
-    API Stack,Management,Imports,Issues,Issue Management,Change Log,Change Log
-    Example
-- slug: github-gists
-  name: Github Gists
-  description: >-
-    Gist is a simple way to share snippets and pastes with others. All gists are
-    Git repositories, so they are automatically versioned, forkable and usable
-    from Git.
-  url: ''
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: 'https://gist.github.com/'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/github-gists.png
-  tags: Management
-- slug: github-pages
-  name: Github Pages
-  description: >-
-    GitHub Pages are public webpages hosted and easily published through GitHub.
-    The quickest way to get up and running is by using the Automatic Page
-    Generator to create some starter HTML and CSS for us. You can then modify
-    our GitHub Pages' content and style remotely via the web or locally on our
-    computer.
-  url: ''
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: 'https://pages.github.com/'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/githubpages.jpg
-  tags: 'Hosting,Management,Portal'
-- slug: gitlab
-  name: GitLab
-  description: >-
-    GitLab Inc. is a company based on the&nbsp;GitLab open-source project.
-    GitLab is an application to code, test, and deploy code together. It
-    provides Git repository management with fine grained access controls, code
-    reviews, issue tracking, activity feeds, wikis, and continuous integration.
-  url: 'https://about.gitlab.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/gitlab'
-  blog: 'https://about.gitlab.com/blog/'
-  blog_rss: 'https://about.gitlab.com/atom.xml'
-  github: 'https://github.com/gitlabhq'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/gitlab.png
-  tags: 'Code,GitHub,Git,Issues,Issue Management'
-- slug: gluu
-  name: Gluu
-  description: >-
-    Gluu provides open source authentication and API access management stack,
-    called the Gluu Server, helps companies secure Web and mobile applications.
-    The Gluu Server leverages standards such as OAuth2, OpenID Connect, UMA,
-    SAML 2.0, and SCIM to enable federated single sign-on (SSO) and trust
-    elevation. The Gluu Server is used by universities, government agencies, and
-    companies to secure employee facing and consumer network services. Deployed
-    on one or more dedicated servers and the IaaS platform of your choice, the
-    Gluu Server improves the quality and drives down the cost of an increasingly
-    complex and mission critical IT service: authentication and authorization
-    (AA).
-  url: 'http://www.gluu.org/'
-  short_url: ''
-  twitter: 'https://twitter.com/GluuFederation'
-  blog: 'http://www.gluu.org/blog/'
-  blog_rss: 'http://www.gluu.org/blog/feed'
-  github: 'https://github.com/GluuFederation'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/gluu-logo.png
-  tags: 'Authentication,Identity,Management,API Management Other'
-- slug: google-cloud-key-management-service-kms
-  name: Google Cloud Key Management Service (KMS)
-  description: >-
-    Cloud KMS is a cloud-hosted key management service that lets you manage
-    encryption for your cloud services the same way you do on-premises. You can
-    generate, use, rotate and destroy AES256 encryption keys. Cloud KMS is
-    integrated with IAM and Cloud Audit Logging so that you can manage
-    permissions on individual keys, and monitor how these are used. Use Cloud
-    KMS to protect secrets and other sensitive data which you need to store in
-    Google Cloud Platform.
-  url: 'https://cloud.google.com/kms/'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/kms-lead.png
-  tags: 'Authentication,Management,Google APIs'
-- slug: google-cloud-resource-manager
-  name: Google Cloud Resource Manager
-  description: >-
-    Google Cloud Platform provides resource containers such as Organizations and
-    Projects, that allow you to group and hierarchically organize other Cloud
-    Platform resources. This hierarchical organization lets you easily manage
-    common aspects of your resources such as access control and configuration
-    settings. The Google Cloud Resource Manager service enables you to
-    programmatically manage these resource containers.
-  url: 'https://cloud.google.com/resource-manager/'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Generic-GCP.png
-  tags: 'Orchestration,Google APIs,Management'
-- slug: google-cloud-user-accounts
-  name: Google Cloud User Accounts
-  description: >-
-    Service for managing the global Google Cloud user accounts. This API
-    reference is organized by resource type. Each resource type has one or more
-    data representations and one or more methods.
-  url: 'https://cloud.google.com/compute/docs/access/user-accounts/api/latest/'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-cloud-icon.png
-  tags: 'Authentication,Management,Users,Google APIs'
-- slug: google-service-management
-  name: Google Service Management
-  description: >-
-    Google Service Management is an infrastructure service of Google Cloud
-    Platform that manages other APIs and services, including Google's own Cloud
-    Platform services and their APIs, and services created using Google Cloud
-    Endpoints.
-  url: 'https://cloud.google.com/service-management/overview'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-cloud-icon.png
-  tags: 'Management,Deployment,Google APIs,Integration'
-- slug: hitch
-  name: Hitch
-  description: >-
-    Hitch is a single platform to help API owners engage with and grow their API
-    community. Our clients show striking similarities in the challenges they
-    face in building integrated and sustainable developer platforms. API
-    providers still struggle to make sure their platform is visible to the right
-    audience. Once found, access is inconsistent and cumbersome and even after
-    onboarding, key engagement tools are seldom available. We have put together
-    a single solution that covers these three key areas.
-  url: 'https://www.hitchhq.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/hitchhq'
-  blog: 'https://blog.hitchhq.com/'
-  blog_rss: 'https://blog.hitchhq.com/feed'
-  github: 'https://github.com/hitchhq'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/hitch-logo.jpg
-  tags: 'Discovery,Management,Portal'
-- slug: ibm-api-management
-  name: IBM API Management
-  description: >-
-    IBM&reg; API Management solution provides a complete set of web API
-    capabilities to help you extend services from the back-office to new
-    front-office engagements. It offers flexible deployment options, including
-    capabilities for creating, proxying, assembling, securing, and scaling web
-    APIs. IBM API Management provides detailed analytics and operational metrics
-    to the business owner, as well as a customized developer portal for
-    socializing the APIs and managing applications that can be used by
-    developers.
-  url: 'https://apim.ibmcloud.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/ibmapimgt'
-  blog: 'https://developer.ibm.com/api/blog/'
-  blog_rss: 'https://developer.ibm.com/api/feed/'
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/bw-ibm-logo.jpeg
-  tags: 'Management,API Management Other,API LIfeycle'
-- slug: jexia
-  name: Jexia
-  description: >-
-    Jexia is a platform for developers, by developers: a better way to build
-    software. No shortcuts. No workarounds. What we offer is a wide range of
-    services, developed in-house and integrated into a single platform. That
-    means you'll need less code for the same professional result. And because
-    it's horizontally scalable by design, the sky really is the limit
-  url: 'http://www.jexia.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/jexiacom'
-  blog: 'http://jexia.com/blog/'
-  blog_rss: 'http://jexia.com/feed/'
-  github: 'https://github.com/jexia-inc'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/jexia-logo.png
-  tags: 'Deployment,Management,Cloud'
-- slug: justapis
-  name: JustAPIs
-  description: "JustAPIs is designed to help developers overcome existing limitations when it comes to building APIs.\_The JustAPIs solution is a high-performance, compiled executable that can run on any Linux, Windows, or Mac OSX based hardware, from a single developers laptop to large-scale, clustered production environments. With zero dependencies, JustAPIs can be installed instantly and includes sample APIs with familiar JavaScript-based business logic, so developers can be up and running with their own API server in minutes."
-  url: 'http://justapis.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/JustAPIs'
-  blog: 'http://blog.jexia.com/blog/'
-  blog_rss: 'http://blog.jexia.com/feed/'
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/justapis-logo.png
-  tags: 'Management,Deployment,Internet of Things'
-- slug: kong
-  name: Kong
-  description: >-
-    Kong was created to secure, manage and extend Microservices &amp; APIs. Kong
-    is powered by the battle-tested tech of NGINX and Cassandra with a focus on
-    scalability, high performance &amp; reliability. Kong runs in production at
-    Mashape handling billions of requests to over ten thousand APIs.
-  url: 'https://getkong.org/'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/kong-logo.png
-  tags: Management
-- slug: machineshop
-  name: MachineShop
-  description: >-
-    MachineShop transforms the way enterprises and developers build, integrate
-    and manage solutions to unlock more business value and intelligence. With
-    MachineShop&rsquo;s API-centric middleware, every Internet-enabled thing,
-    system, device, network, application, event and business process can be
-    expressed as a service &ndash; without the limitations of a proprietary
-    Platform.
-  url: 'http://www.machineshop.io/'
-  short_url: ''
-  twitter: 'https://twitter.com/machineshopio'
-  blog: 'http://www.machineshop.io/blog'
-  blog_rss: 'http://www.machineshop.io/blog/rss.xml'
-  github: 'https://github.com/MachineShop-IOT'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/machineshop-logo.png
-  tags: 'Internet of Things,Management'
-- slug: mashape
-  name: Mashape
-  description: >-
-    Mashape provides tools that enable developers to quickly deliver and consume
-    APIs and offers a marketplace for listing APIs. Mashape provides tools for
-    testing your API, code for generation of custom errors, components for user
-    management and standardized API code language libraries in multiple
-    languages. &nbsp;Once your API is ready for prime time Mashape provides a
-    marketplace for listing your API, letting developers to easily discover and
-    begin hacking with your API, in a social API community environment.
-  url: 'http://mashape.com'
-  short_url: ''
-  twitter: 'https://twitter.com/mashape'
-  blog: 'http://blog.mashape.com/'
-  blog_rss: ''
-  github: 'https://github.com/Mashape'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/mashape-logo.png
-  tags: >-
-    Management,Discovery,Discovery,Design,API Management Other,API
-    LIfeycle,Studio
-- slug: mashery
-  name: Mashery
-  description: >-
-    Mashery's API management tools and strategic services help companies connect
-    with customers and partners in a changing digital world by extending reach
-    across devices, markets and the Web. Mashery leads the industry with a
-    holistic approach for API initiatives &ndash; from setting platform strategy
-    and measuring business objectives to the heavy lifting of providing and
-    managing infrastructure to facilitating relationships with our 150,000
-    strong network of Web and mobile application developers.
-  url: 'http://mashery.com'
-  short_url: ''
-  twitter: 'https://twitter.com/Mashery'
-  blog: 'http://www.mashery.com/blog'
-  blog_rss: 'http://feeds.feedburner.com/MasheryBlog'
-  github: 'https://github.com/mashery'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/mashery-logo.png
-  tags: >-
-    API Management Other,API LIfeycle,Federal Government,Federal
-    Government,Federal Government,Federal Government
-- slug: microsoft-azure
-  name: Microsoft Azure
-  description: >-
-    Microsoft Azure is a cloud computing platform and infrastructure created by
-    Microsoft for building, deploying, and managing applications and services
-    through a global network of Microsoft-managed datacenters. It provides both
-    PaaS and IaaS services and supports many different programming languages,
-    tools and frameworks, including both Microsoft-specific and third-party
-    software and systems
-  url: 'https://azure.microsoft.com/en-us/'
-  short_url: ''
-  twitter: 'https://twitter.com/azure'
-  blog: 'http://azure.microsoft.com/blog/'
-  blog_rss: 'http://azure.microsoft.com/blog/feed/'
-  github: 'https://github.com/Azure'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-azure-logo.png
-  tags: >-
-    Management,API Management
-    Other,Deployment,Compute,Database,Serverless,Portal,Command Line
-    Interface,DNS,DNS Cloud,Reliability,Service Level Agreement,Cloud,Bigcos
-- slug: monarch-api-manager
-  name: Monarch API Manager
-  description: >-
-    An open source solution for quickly deploying, managing, and analyzing your
-    APIs. Manage partners, APIs, and internal access from an administrative GUI.
-    Control security policies and apply authorization at a granular level around
-    your digital assets. Capture and view real-time usage statistics across
-    partners and APIs. Create custom data via our Analytics API. Use this data
-    to derive business insights and drive monetization. Allow users to share
-    their data with applications using the OAuth 2.0 protocol. Protect your
-    customers' sign in credentials. Empower them to revoke applications at any
-    time.
-  url: 'http://www.monarchapis.com/'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: 'https://github.com/monarchapis'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/monarch-api-manager.png
-  tags: 'Management,API Management Other'
-- slug: msgme
-  name: Msgme
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/loadfocus.png
+  tags: 'Performance,Testing'
+- slug: loadui
+  name: LoadUI
   description: ''
-  url: 'http://www.msgme.com/'
+  url: ''
   short_url: ''
-  twitter: 'https://twitter.com/msgmehq'
+  twitter: 'https://twitter.com/loadui'
   blog: ''
   blog_rss: ''
-  github: 'https://github.com/msgme'
+  github: ''
   image: ''
-  tags: >-
-    Streaming,Messaging,Mobile,Subscriptions,SMS,Telco,Global,Email
-    Marketing,Campaign Management
-- slug: mulesoft
-  name: MuleSoft
-  description: >-
-    MuleSoft provides the most widely used integration platform for connecting
-    SaaS and enterprise applications in the cloud and on-premise. With the rise
-    of cloud and mobile, enterprises face a choice: get overwhelmed by the
-    resulting explosion of end points or seize the opportunity to gain
-    competitive advantage. Founded on the idea that connecting applications
-    should not be hard, MuleSoft lets organizations harness the power of their
-    applications through integration. MuleSoft&rsquo;s Anypoint&trade;
-    technology eliminates costly, time-intensive point-to-point integration,
-    enabling business agility.
-  url: 'http://www.mulesoft.com/'
+  tags: Load Testing
+- slug: mocky
+  name: Mocky
+  description: Mock your HTTP responses to test your REST API.
+  url: 'http://www.mocky.io/'
   short_url: ''
-  twitter: 'https://twitter.com/MuleSoft'
-  blog: 'http://blogs.mulesoft.org/'
+  twitter: ''
+  blog: ''
   blog_rss: ''
-  github: 'https://github.com/mulesoft'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mulesoft-logo.jpeg
-  tags: 'Design,Management,API LIfeycle,Studio,Design Editor'
-- slug: mutualmind
-  name: MutualMind
-  description: >-
-    MutualMind is a social media listening and management system that OEM
-    partners and service providers can use to help brands monitor as well as
-    promote themselves on social networks while providing actionable analytics
-    and insights to increase social media ROI.  MutualMind provides an in-depth
-    OEM and white label solution allowing partners to jumpstart their social
-    listening and analytics capabilities.  The user interface can be branded
-    with a custom logo, vanity URL or themed with custom style sheets. Support
-    for an end-to-end OEM integration is provided through single sign on (SSO),
-    a provisioning API and a full-featured developer API.  MutualMind, Inc. is a
-    privately held company based in Dallas, Texas.
-  url: 'http://dev.mutualmind.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/#!/mutualmind'
-  blog: 'http://www.mutualmind.com/blog/'
-  blog_rss: 'http://feeds.feedburner.com/mutualmindblog'
-  github: 'https://github.com/mutualmind'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1094_logo.jpg
-  tags: 'Social,Social Media Marketing,Brand Management'
-- slug: nevatech
-  name: Nevatech
-  description: >-
-    Nevatech Sentinet&trade; is the only enterprise class API Management
-    platform written in .NET that is available for On-Premise, Cloud and Hybrid
-    environments. &nbsp;It connects, mediates and manages interactions between
-    providers and consumers of services across enterprises for businesses and
-    end-customers. Sentinet supports industry SOAP and REST standards as well as
-    Microsoft specific technologies and includes an API Repository for API
-    Governance, API versioning, auto-discovery, description, publishing and
-    Lifecycle Management. Sentinet API Gateway provides APIs with (Real-Time)
-    Monitoring, Security (Authentication and Authorization), Service Agreements
-    Management, Alerting, Analytics and many more features that make it the
-    perfect choice for Microsoft customers.
-  url: 'http://www.nevatech.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/nevatechinc'
-  blog: 'http://www.nevatech.com/blog'
-  blog_rss: 'http://www.nevatech.com/blog/syndication.axd'
   github: ''
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Nevatech-Logo.png
-  tags: 'Management,API Management Other'
-- slug: openrepose
-  name: OpenRepose
-  description: >-
-    Repose is an open-source platform that you can use to build stacks of
-    reusable software components. These components can be leveraged by service
-    developers to perform common API processing tasks. By using Repose's
-    components rather than creating their own, service developers can focus on
-    the unique features of their services. Repose can be used inside a service
-    to perform API operations. It can also run on one or more separate servers
-    as a proxy to one or more services. At its core, Repose is a proxy that
-    allows services to use Enterprise Integration Patterns (EIP).
-  url: 'http://openrepose.org/'
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mocky-logo.png
+  tags: 'Code,Testing,Sandbox,Virtualization'
+- slug: national-aeronautics-and-space-administration-nasa
+  name: National Aeronautics and Space Administration (NASA)
+  description: ''
+  url: 'http://www.nasa.gov'
   short_url: ''
-  twitter: 'https://twitter.com/openrepose'
+  twitter: 'https://twitter.com/NASAWebb'
   blog: ''
   blog_rss: ''
-  github: 'https://github.com/rackerlabs/repose'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/repose-logo.png
-  tags: Management
-- slug: readme.io
-  name: ReadMe.io
+  github: 'http://github.com/nasa'
+  image: ''
+  tags: >-
+    Federal Government,NASA,Jpl,Jet Propulsion Laboratory,Jet Propulsion
+    Labratory ,Johnson Space
+    Center,Education,History,Science,Research,Space,Open
+    Source,Sustainability,Compliance
+    Assistance,Environment,Air,Code,OpenSource,Planets,Solarsystem,Software,Verification,Validation,Independent,Testing,Missions,Satellite,Solar,Goddard,Gsfc,Sun,Space
+    Weather,Weather,Earth Science,Games,Nasa
+    Goddard,Astrophysics,Universe,Technology,Climate,Earth,Climate
+    Modeling,Climate Models,Weather Modeling,Climate
+    Simulation,Exoplanet,Transiting Exoplanets,New
+    Worlds,Exoplanets,Pollution,Hurricane,Snow,Ozone,Typhoon,Remote
+    Sensing,Hurricanes,Rain,Precipitation,Satellites,Freshwater,Tropical
+    Cyclones,Gpm,Trmm,Visualizations,Light Pollution,Photography,Kids,Space
+    Camp,Museums,Technology Transfer,Nasa Partnerships,Sbir,Sttr,Spinoffs,Game
+    Changing,Space Technology,Nasa Spinoffs,Innovation,Nasa Technology,Nasa
+    Research,Nasa Inventors,Nasa Langley,Nasa
+    Innovation,Ames,Partnerships,Licensing,Agreements,Tech
+    Transfer,Diversity,Women,Outrea
+- slug: parasoft
+  name: Parasoft
   description: >-
-    ReadMe is a developer hub for your startup or code. It's a completely
-    customizable and collaborative place for documentation, support, key
-    generation and more. Don't waste your precious time reimplementing a
-    dev.yourstartup.com. If you have an API, code library, or affiliate program,
-    documentation is hard. Users can't use your product without understanding
-    it, and most documentation on the Internet is lacking. The goal of ReadMe is
-    to make consuming APIs completely painless.
-  url: 'https://readme.io/'
+    Parasoft researches and develops software solutions that help organizations
+    deliver defect-free software efficiently. By integrating&nbsp;development
+    testing,&nbsp;API testing, and&nbsp;service virtualization, we reduce the
+    time, effort, and cost of delivering secure, reliable, and compliant
+    software. Parasoft's enterprise and embedded development solutions are the
+    industry's most comprehensive&mdash;including static analysis, unit testing,
+    requirements traceability, coverage analysis, functional and load testing,
+    dev/test environment management, and more.
+  url: 'http://www.parasoft.com/'
   short_url: ''
-  twitter: 'https://twitter.com/readmeio'
-  blog: 'https://blog.readme.io/'
-  blog_rss: 'https://blog.readme.io/rss/'
-  github: 'https://github.com/readmeio'
+  twitter: 'https://twitter.com/Parasoft'
+  blog: 'http://blog.parasoft.com/'
+  blog_rss: 'http://www.parasoft.com/rss/'
+  github: 'https://github.com/parasoft'
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/readme-io-logo.png
-  tags: 'Management,API LIfeycle,Documentation,Portal'
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/parasoft-logo.png
+  tags: 'Testing,Virtualization'
+- slug: postman
+  name: Postman
+  description: >-
+    Postman on Chrome is the most efficient way to test, develop and document
+    APIs. Create complex requests, go back in time and view results in a
+    beautiful way. Postman has more than 80 features to help you at every
+    step.&nbsp;Our user base is growing rapidly and with more tools in the
+    pipeline, Postman aims to provide the most comprehensive API development and
+    testing solution to developers.
+  url: 'http://www.getpostman.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/postmanclient'
+  blog: 'http://blog.getpostman.com/'
+  blog_rss: 'http://blog.getpostman.com/index.php/feed/'
+  github: 'https://github.com/postmanlabs'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/postman-rest-logo.png
+  tags: 'Clients, Testing, Definitions'
 - slug: rest-united
   name: REST United
   description: >-
@@ -1082,267 +525,123 @@
   image: >-
     http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/rest-united.png
   tags: 'Documentation,SDK,Testing,Debugging,API Management SDK'
-- slug: restlet
-  name: Restlet
+- slug: restcase
+  name: RestCase
   description: >-
-    APISpark is an &nbsp;cloud API platform that lets you create, host, manage
-    and use web APIs. Using the Restlet Framework at its core, APISpark
-    simplifies the web API experience, the time to market, and the overall cost
-    to get started and to scale you APIs. &nbsp;Restlet is a web API platform
-    vendor, pioneer of RESTful web APIs. APISpark serves our customers around
-    the world, providing software to build web APIs, which includes APISpark,
-    the PaaS version of Restlet. &nbsp;APISpark lets you build and deploy your
-    web APIs, which includes the creation, hosting and management--all in one
-    solution.
-  url: 'https://restlet.com/'
+    RestCase focuses on the REST API development cycle and enhances team
+    collaboration, reduces development time, improves testing and increases
+    overall product quality.
+  url: 'http://www.restcase.com/'
   short_url: ''
-  twitter: 'https://twitter.com/restlet'
-  blog: 'http://restlet.com/blog'
-  blog_rss: 'http://restlet.com/blog/feed/'
-  github: 'https://github.com/restlet'
+  twitter: 'https://twitter.com/RestCaseApi'
+  blog: 'http://blog.restcase.com/'
+  blog_rss: 'http://blog.restcase.com/rss/'
+  github: 'https://github.com/restcase'
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Logo-Restlet-Horizontal-800x225.png
-  tags: 'Management,Spreadsheets,Design,Deployment,Studio,Cloud'
-- slug: sensedia
-  name: Sensedia
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/restcase_logo.png
+  tags: 'Virtualization,Testing'
+- slug: restlet-dhc
+  name: Restlet DHC
   description: >-
-    Sensedia solutions help companies accelerate the integration between their
-    internal applications and to carry vital data value chain partners to deal
-    with security and control. With deep expertise and sensational tools for SOA
-    (Service-oriented Architecture) and APIs (Application Programming
-    Interfaces), many companies reduced from months to days the time needed to
-    integrate with a new business partner or to connect applications that
-    support business processes .
-  url: 'http://sensedia.com/br/'
+    Call APIs to discover and validate their behavior, build and run complete
+    test scenarios.&nbsp;Trying out an API to check its behavior usually
+    involves writing a program or sending command line instructions to call the
+    API
+  url: 'https://restlet.com/products/dhc/'
   short_url: ''
-  twitter: 'https://twitter.com/Sensedia_BR'
+  twitter: ''
   blog: ''
   blog_rss: ''
   github: ''
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/sensedia-logo.jpeg
-  tags: 'Management,Brazil,API Management Other'
-- slug: slashdb
-  name: SlashDB
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/restlet-dhc-logo.jpg
+  tags: 'Clients,Testing'
+- slug: rightapi
+  name: RightAPI
   description: >-
-    SlashDB connects your internal databases and constructs a REST/HTTP web
-    service, easily making database content accessible by URLs for getting,
-    updating, inserting and deleting in a secure way. &nbsp;SlashDB provides
-    connectors for Microsoft SQL Server, Oracle, MySQL, PostGreSQL, IBM DB2 and
-    Sybase--covering the top 5 databases you will find in the enterprise or
-    small to medium businesses. SlashDB automatically turns databases into
-    online resource so their content becomes accessible to authorized web,
-    mobile and enterprise applications for reading and writing under standard
-    data formats. Technically speaking, it makes REST APIs out of relational
-    databases.
-  url: 'http://www.slashdb.com/'
+    TheRightAPI is enabling the API community by providing solutions to make
+    working with APIs easier. If you need to discover, trust, monitor and manage
+    APIs, TheRightAPI is here to help. TheRightAPI provides the platform and
+    intelligence developers need to establish and maintain successful next
+    generation applications.
+  url: 'http://www.therightapi.com/'
   short_url: ''
-  twitter: 'http://twitter.com/slash_db'
+  twitter: 'https://twitter.com/rightapi'
+  blog: 'http://blog.therightapi.com'
+  blog_rss: 'http://feeds.feedburner.com/rtur'
+  github: 'https://github.com/theRightAPI'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/therightapi-logo-2.png
+  tags: Testing
+- slug: runscope
+  name: Runscope
+  description: >-
+    Runscope was started with the idea that depending on a web service API in a
+    mobile or web application should be as easy as depending on code running
+    locally. We&rsquo;ve assembled a team of API, infrastructure and developer
+    experience experts to build tools to support the modern application
+    development lifecycle.
+  url: 'https://www.runscope.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/Runscope'
+  blog: 'http://blog.runscope.com/'
+  blog_rss: 'http://blog.runscope.com/posts?format=rss'
+  github: 'https://github.com/Runscope'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/runscope-logo.png
+  tags: 'My API Stack,Monitoring,Testing,Monitoring,Testing,API LIfeycle'
+- slug: smartbear-software
+  name: SmartBear Software
+  description: >-
+    SmartBear Software provides tools for over 100,000 software professionals to
+    build, test, and monitor some of the best software applications and websites
+    anywhere on the desktop, mobile and in the cloud.
+  url: 'http://smartbear.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/smartbear'
+  blog: 'http://blog.smartbear.com/'
+  blog_rss: 'http://feeds.feedburner.com/smartbear'
+  github: 'https://github.com/SmartBear'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/SmartBear-Logo.png
+  tags: 'Security,Testing,Monitoring,Virtualization,Performance,API LIfeycle'
+- slug: stoplight
+  name: StopLight
+  description: >-
+    StopLight provides engineering teams with a new way to document, test, and
+    build web APIs. Our technology easily and automatically maps an API, and
+    then provides tooling and services to reduce development time, and increase
+    reliability and accessibility.
+  url: 'http://stoplight.io/'
+  short_url: ''
+  twitter: 'https://twitter.com/stoplightio'
+  blog: 'http://blog.stoplight.io/'
+  blog_rss: 'http://blog.stoplight.io/rss/'
+  github: 'https://github.com/stoplightio'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/stoplight-io-logo.png
+  tags: 'Testing,Clients,API LIfeycle,Proxy,Design,Studio'
+- slug: vrest
+  name: vREST
+  description: 'Simplify, Automate and Speed-up REST API Testing'
+  url: 'http://vrest.io/'
+  short_url: ''
+  twitter: ''
   blog: ''
-  blog_rss: 'http://www.slashdb.com/feed/'
-  github: 'https://github.com/SlashDB'
+  blog_rss: ''
+  github: ''
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/slashdb-new-logo-sideways-medium.png
-  tags: 'Management,Deployment,Database'
-- slug: socrata
-  name: Socrata
-  description: >-
-    Socrata is the leading developer and provider of Open Data Services, a
-    category of cloud-based Web 2.0 solutions that enable federal, state, and
-    local governments to dramatically improve the reach, usability and social
-    utility of their public information assets. &nbsp;The Socrata Social Data
-    Platform&trade; is a turnkey information delivery platform that reduces
-    lifecycle management costs for government customers while boosting their
-    ability to disseminate relevant information and data-driven services to a
-    wide range of audiences including citizens, civic application developers,
-    researchers, journalists and internal stakeholders.
-  url: 'http://socrata.com'
-  short_url: ''
-  twitter: 'https://twitter.com/socrata'
-  blog: 'http://www.socrata.com/tech-blog/'
-  blog_rss: 'http://www.socrata.com/feed/'
-  github: 'https://github.com/socrata'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/socrata_logo.jpg
-  tags: >-
-    Management,Socrata,Data,Management,Deployment,Portal,State
-    Government,Federal Government
-- slug: strapi
-  name: Strapi
-  description: >-
-    Strapi is an open-source Node.js framework built on top of Koa for building
-    applications. We give you some built-in but not mandatory features aiming to
-    not repeat yourself. The Studio is dedicated to build applications without
-    writing any single line of code.
-  url: 'http://strapi.io/'
-  short_url: ''
-  twitter: 'https://twitter.com/strapijs'
-  blog: 'http://blog.strapi.io/'
-  blog_rss: 'http://strapi.io/rss.xml'
-  github: 'https://github.com/strapi'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
-    Shot 2017-03-19 at 11.02.40 PM.png
-  tags: 'Deployment,Management'
-- slug: strikeiron
-  name: StrikeIron
-  description: >-
-    StrikeIron is the leader in Data-as-a-Service (DaaS), delivering data
-    quality and communications solutions via our cloud platform IronCloud. We
-    provide address verification, email verification, phone validation, phone
-    append, SMS text messaging, and sales tax solutions to customers in a
-    variety of markets. Our solutions are delivered as Web services that can be
-    easily integrated into any application or system. Additionally, our
-    solutions are pre-integrated into leading platforms like: Salesforce.com,
-    Magento, Informatica, Oracle CRM On-Demand, and more.&nbsp;
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/vrsest-logo.png
+  tags: 'Testing,Virtualization'
+- slug: webpagetest
+  name: WebPagetest
+  description: ''
   url: >-
-    http://www.strikeiron.com/Catalog/ProductDetail.aspx?pv=1.0.0&pn=Midnight+Trader+Financial+News
+    https://sites.google.com/a/webpagetest.org/docs/advanced-features/webpagetest-restful-apis
   short_url: ''
-  twitter: 'https://twitter.com/strikeiron'
-  blog: 'http://blog.strikeiron.com'
-  blog_rss: 'http://blog.strikeiron.com/CMS/UI/Modules/BizBlogger/rss.aspx'
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/372_logo.png
-  tags: >-
-    Catalog,Marketplace,Geocoding,Travel,Distance,Verification,Exchange,Currency,Global,Enterprise,News,Stocks,Phone,Phone,Shopping,Government,Money,Location,Address
-    Verification,Census,Business,Zip
-    Code,Messaging,Finance,Location,Management,Location,Finance,API Management
-    Other,API LIfeycle
-- slug: strongloop
-  name: StrongLoop
-  description: >-
-    StrongLoop is based in San Mateo, CA and employs over 30 developers working
-    with Node.js. StrongLoop develops StrongLoop Suite, a leading Mobile API
-    Tier along with being the primary code contributor to Node.js. StrongLoop
-    Suite includes an open source private mBaaS, an operations console and a
-    supported package of Node.js, containing advanced debugging, clustering and
-    support for private npm registries. StrongLoop was founded by Node
-    core-contributors, Enterprise mobile architects and veterans of open source
-    and Could companies.&nbsp;
-  url: 'http://strongloop.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/StrongLoop'
-  blog: 'http://strongloop.com/strongblog/'
-  blog_rss: 'http://strongloop.com/feed/'
-  github: 'https://github.com/strongloop'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/strongloop-logo.png
-  tags: 'Management,Deployment,Cloud,Bigcos'
-- slug: swiftiq
-  name: SwiftIQ
-  description: >-
-    SwiftIQ provides web-service application programming interface (API)
-    infrastructure to facilitate data accessibility and predictive analytics
-    through the Swift Access and Swift Predictions products. Swift Access is an
-    award-winning backend platform to unify and secure disconnected data then
-    deliver and analyze it on-demand to power real-time digital actions. Swift
-    Predictions allows users to apply adaptive, machine learning algorithms to
-    discover insights fast and make applications smarter.
-  url: 'http://www.swiftiq.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/swiftiq'
-  blog: 'http://www.swiftiq.com/blog'
-  blog_rss: 'http://www.swiftiq.com/blog/rss.xml'
-  github: 'https://github.com/SwiftIQ'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/swift-iq-logo.jpg
-  tags: 'Commerce,Management,Deployment,Retail'
-- slug: tibco-software
-  name: TIBCO Software
-  description: >-
-    TIBCO Software Inc. (NASDAQ: TIBX) is a provider of infrastructure software
-    for companies to use on-premise or as part of cloud computing environments.
-    Whether it's optimizing claims, processing trades, cross-selling products
-    based on real-time customer behavior, or averting a crisis before it
-    happens, TIBCO provides companies the two-second advantage&trade; &mdash;
-    the ability to capture the right information at the right time and act on it
-    preemptively for a competitive advantage. More than 4,000 customers
-    worldwide rely on TIBCO to manage information, decisions, processes and
-    applications in real time. Learn more at www.tibco.com.
-  url: 'http://www.tibco.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/tibco'
-  blog: 'http://www.tibco.com/blog/'
-  blog_rss: 'http://feeds.feedburner.com/TheTibcoBlog'
-  github: 'https://github.com/TIBCOSoftware'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/tibco-logo.png
-  tags: 'Management,Deployment,API Management Other,Gateway'
-- slug: tyk
-  name: Tyk
-  description: >-
-    An open source, lightweight, fast and scalable API Gateway. Set rate
-    limiting, request throttling, and auto-renewing request quotas to manage how
-    your users access your API. Tyk supports access tokens, HMAC request
-    signing, basic authentication and OAuth 2.0 to integrate old and new
-    services easily. Tyk can record and store detailed analytics which can be
-    segmented by user, error, endpoint and client ID across multiple APIs and
-    versions. Integrate your existing or new applications with Tyk using a
-    simple REST API, Tyk even support hot-reloads so you can introduce new
-    services without downtime.
-  url: 'http://tyk.io/'
-  short_url: ''
-  twitter: 'https://twitter.com/tyk_io'
-  blog: 'https://tyk.io/news-2/'
-  blog_rss: 'https://tyk.io/feed/'
-  github: 'https://github.com/TykTechnologies'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/tyk_io_logo.png
-  tags: 'Management,Deployment,API Deployment Gateways,Tyk API Management'
-- slug: varnish-software
-  name: Varnish Software
-  description: >-
-    Varnish Software is the company behind Varnish Cache, a widely trusted open
-    source web accelerator, significantly enhancing web performance for
-    businesses online. We power major sites across all industry types&mdash;for
-    businesses such as Nikon, Transport for London and Vimeo as well as more
-    than 1.8 million websites worldwide. Varnish Plus is our commercial suite,
-    offering products for scalability, customization, monitoring and expert
-    support services.
-  url: 'https://www.varnish-software.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/varnishsoftware'
-  blog: 'https://www.varnish-software.com/blog'
-  blog_rss: 'https://www.varnish-software.com/blog/feed.rss'
-  github: 'https://github.com/varnish'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/varnish-software.jpeg
-  tags: 'Management,Caching,API Proxy,API LIfeycle'
-- slug: 'wavemaker,-inc.'
-  name: 'WaveMaker, Inc.'
-  description: >-
-    WaveMaker, Inc. provides WaveMaker Enterprise &ndash; An aPaaS software for
-    rapid application delivery of enterprise custom apps. WaveMaker Enterprise
-    provides benefits such as visual rapid application development, out of the
-    box support for security, web services integration and data modelling, high
-    performance cloud platform based on Docker containers, a self service
-    management console that provides simplified administration and many more
-    such features.
-  url: 'http://www.wavemaker.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/WaveMaker'
-  blog: 'http://www.wavemaker.com/blog/'
+  twitter: ''
+  blog: ''
   blog_rss: ''
-  github: 'https://github.com/wavemaker'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/wavemaker-logo.png
-  tags: 'Deployment,Management,Cloud'
-- slug: wso2
-  name: WSO2
-  description: >-
-    WSO2 is the lean enterprise middleware company. It delivers the only
-    complete open source enterprise SOA middleware stack purpose-built as an
-    integrated platform to support today&rsquo;s heterogeneous enterprise
-    environments internally and in the cloud. WSO2&rsquo;s service and support
-    team is led by technical experts who have proven success in deploying
-    enterprise SOAs and contribute to the technology standards that enable them.
-  url: 'http://wso2.com'
-  short_url: ''
-  twitter: 'http://twitter.com/wso2'
-  blog: 'http://wso2.com/blogs/thesource/'
-  blog_rss: 'http://wso2.com/blogs/thesource/feed/'
-  github: 'https://github.com/wso2'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/wso2-logo-white-800X360.jpg
-  tags: 'Management,API LIfeycle,Portal'
+  github: ''
+  image: ''
+  tags: 'Websites,Performance Testing'
