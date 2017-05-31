@@ -420,57 +420,6 @@
   image: >-
     http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/loadfocus.png
   tags: 'Performance,Testing'
-- slug: loadui
-  name: LoadUI
-  description: ''
-  url: ''
-  short_url: ''
-  twitter: 'https://twitter.com/loadui'
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: ''
-  tags: Load Testing
-- slug: mocky
-  name: Mocky
-  description: Mock your HTTP responses to test your REST API.
-  url: 'http://www.mocky.io/'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mocky-logo.png
-  tags: 'Code,Testing,Sandbox,Virtualization'
-- slug: national-aeronautics-and-space-administration-nasa
-  name: National Aeronautics and Space Administration (NASA)
-  description: ''
-  url: 'http://www.nasa.gov'
-  short_url: ''
-  twitter: 'https://twitter.com/NASAWebb'
-  blog: ''
-  blog_rss: ''
-  github: 'http://github.com/nasa'
-  image: ''
-  tags: >-
-    Federal Government,NASA,Jpl,Jet Propulsion Laboratory,Jet Propulsion
-    Labratory ,Johnson Space
-    Center,Education,History,Science,Research,Space,Open
-    Source,Sustainability,Compliance
-    Assistance,Environment,Air,Code,OpenSource,Planets,Solarsystem,Software,Verification,Validation,Independent,Testing,Missions,Satellite,Solar,Goddard,Gsfc,Sun,Space
-    Weather,Weather,Earth Science,Games,Nasa
-    Goddard,Astrophysics,Universe,Technology,Climate,Earth,Climate
-    Modeling,Climate Models,Weather Modeling,Climate
-    Simulation,Exoplanet,Transiting Exoplanets,New
-    Worlds,Exoplanets,Pollution,Hurricane,Snow,Ozone,Typhoon,Remote
-    Sensing,Hurricanes,Rain,Precipitation,Satellites,Freshwater,Tropical
-    Cyclones,Gpm,Trmm,Visualizations,Light Pollution,Photography,Kids,Space
-    Camp,Museums,Technology Transfer,Nasa Partnerships,Sbir,Sttr,Spinoffs,Game
-    Changing,Space Technology,Nasa Spinoffs,Innovation,Nasa Technology,Nasa
-    Research,Nasa Inventors,Nasa Langley,Nasa
-    Innovation,Ames,Partnerships,Licensing,Agreements,Tech
-    Transfer,Diversity,Women,Outrea
 - slug: parasoft
   name: Parasoft
   description: >-
