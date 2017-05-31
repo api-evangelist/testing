@@ -253,15 +253,16 @@ title: API Evangelist - Testing
 </section>
 
 <!-- About This Research -->
-{% assign about_content = site.data.home_content.index[1] %}
+{% assign about_content = site.data.home_content.index %}
+about_content: {{ about_content }}
 <section id="banner">
 	<div class="content">
 		<header>
-			<h2>{{ home_content[2].title }}</h2>
+			<h2>{{ home_content.title }}</h2>
 		</header>
-		{{ home_content[2].content }}
+		{{ home_content.content }}
 	</div>
 	<span class="image object">
-		<img src="{{ home_content[2].image }}" alt="" width="25%" />
+		<img src="{{ home_content.image }}" alt="" width="25%" />
 	</span>
 </section>
