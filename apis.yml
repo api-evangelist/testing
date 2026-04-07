@@ -9,10 +9,10 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Testing
   - API Quality
-  - Load Testing
   - Contract Testing
+  - Load Testing
+  - Testing
 url: https://raw.githubusercontent.com/api-evangelist/testing/refs/heads/main/apis.yml
 created: '2026-03-25'
 modified: '2026-03-25'
