@@ -1,0 +1,13 @@
+{
+  "id": "tool-postman",
+  "name": "Postman",
+  "description": "Collaborative API platform for designing, testing, and automating API workflows. Supports REST, GraphQL, and WebSocket testing with collections, environments, and built-in runner and monitor integrations.",
+  "category": "api-client",
+  "license": "freemium",
+  "protocols": ["REST", "GraphQL", "WebSocket", "gRPC"],
+  "languages": ["JavaScript"],
+  "ciIntegration": ["GitHub Actions", "Jenkins", "GitLab CI", "Azure DevOps", "CircleCI"],
+  "url": "https://www.postman.com/",
+  "githubUrl": "https://github.com/postmanlabs",
+  "tags": ["API Client", "Collections", "Monitoring", "Testing"]
+}

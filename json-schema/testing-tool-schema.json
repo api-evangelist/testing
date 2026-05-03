@@ -1,0 +1,73 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://raw.githubusercontent.com/api-evangelist/testing/main/json-schema/testing-tool-schema.json",
+  "title": "API Testing Tool",
+  "description": "Schema representing an API testing, mocking, performance testing, or quality assurance tool.",
+  "type": "object",
+  "required": ["id", "name", "category"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique identifier for the testing tool."
+    },
+    "name": {
+      "type": "string",
+      "description": "Name of the testing tool."
+    },
+    "description": {
+      "type": "string",
+      "description": "Description of the tool's capabilities and use cases."
+    },
+    "category": {
+      "type": "string",
+      "enum": [
+        "api-client",
+        "contract-testing",
+        "load-testing",
+        "mocking",
+        "monitoring",
+        "security-testing",
+        "spec-validation",
+        "test-runner"
+      ],
+      "description": "Primary category of testing functionality."
+    },
+    "license": {
+      "type": "string",
+      "enum": ["open-source", "commercial", "freemium"],
+      "description": "Licensing model."
+    },
+    "protocols": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": ["REST", "GraphQL", "gRPC", "SOAP", "WebSocket", "MQTT", "Kafka", "AMQP"]
+      },
+      "description": "API protocols supported by the tool."
+    },
+    "languages": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Programming languages supported."
+    },
+    "ciIntegration": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "CI/CD platforms natively supported."
+    },
+    "url": {
+      "type": "string",
+      "format": "uri",
+      "description": "Primary website URL."
+    },
+    "githubUrl": {
+      "type": "string",
+      "format": "uri",
+      "description": "GitHub repository or organization URL."
+    },
+    "tags": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  }
+}

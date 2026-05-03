@@ -1,0 +1,28 @@
+{
+  "title": "API Testing Tool Structure",
+  "description": "Structural documentation for API testing tool catalog entries.",
+  "type": "object",
+  "fields": [
+    { "name": "id", "type": "string", "required": true },
+    { "name": "name", "type": "string", "required": true },
+    { "name": "description", "type": "string", "required": false },
+    {
+      "name": "category",
+      "type": "string",
+      "required": true,
+      "enum": ["api-client", "contract-testing", "load-testing", "mocking", "monitoring", "security-testing", "spec-validation", "test-runner"]
+    },
+    {
+      "name": "license",
+      "type": "string",
+      "required": false,
+      "enum": ["open-source", "commercial", "freemium"]
+    },
+    { "name": "protocols", "type": "array", "required": false },
+    { "name": "languages", "type": "array", "required": false },
+    { "name": "ciIntegration", "type": "array", "required": false },
+    { "name": "url", "type": "string", "format": "uri", "required": false },
+    { "name": "githubUrl", "type": "string", "format": "uri", "required": false },
+    { "name": "tags", "type": "array", "required": false }
+  ]
+}

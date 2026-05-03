@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "schema": "https://schema.org/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "ts": "https://raw.githubusercontent.com/api-evangelist/testing/main/vocabulary/testing-vocabulary.yml#",
+
+    "TestingTool": { "@id": "ts:TestingTool", "@type": "@id" },
+    "APIMockingTool": { "@id": "ts:APIMockingTool", "@type": "@id" },
+    "LoadTestingTool": { "@id": "ts:LoadTestingTool", "@type": "@id" },
+    "ContractTestingTool": { "@id": "ts:ContractTestingTool", "@type": "@id" },
+    "SecurityTestingTool": { "@id": "ts:SecurityTestingTool", "@type": "@id" },
+
+    "id": "@id",
+    "name": "schema:name",
+    "description": "schema:description",
+    "url": "schema:url",
+    "tags": "schema:keywords",
+
+    "category": "ts:toolCategory",
+    "license": "ts:licenseModel",
+    "protocols": { "@id": "ts:supportedProtocols", "@container": "@set" },
+    "languages": { "@id": "schema:programmingLanguage", "@container": "@set" },
+    "ciIntegration": { "@id": "ts:ciIntegration", "@container": "@set" },
+    "githubUrl": "ts:githubUrl"
+  }
+}

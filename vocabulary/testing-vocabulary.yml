@@ -1,0 +1,130 @@
+name: Testing Vocabulary
+description: >-
+  Vocabulary of terms, categories, and concepts used in the API testing ecosystem,
+  covering functional testing, contract testing, performance testing, mocking,
+  security testing, and quality assurance tooling.
+url: https://github.com/api-evangelist/testing
+tags:
+  - API Quality
+  - Contract Testing
+  - Load Testing
+  - Testing
+created: '2026-05-03'
+modified: '2026-05-03'
+
+terms:
+  - term: API Testing
+    definition: >-
+      The practice of verifying that an API functions correctly, reliably, and securely.
+      API testing validates endpoints, request/response formats, authentication flows,
+      error handling, and performance characteristics against defined specifications.
+    tags:
+      - Core Concept
+
+  - term: Contract Testing
+    definition: >-
+      A testing methodology that verifies API producer implementations satisfy the
+      contracts (specifications) expected by consumers. Consumer-driven contract
+      testing tools (Pact) and spec-driven tools (Dredd, Schemathesis) are the primary
+      approaches in the API ecosystem.
+    tags:
+      - Core Concept
+
+  - term: Load Testing
+    definition: >-
+      Testing that measures API system behavior under expected and peak traffic conditions.
+      Load tests use scripted virtual users to simulate concurrent requests and measure
+      throughput, latency percentiles, and error rates. Tools include k6, Gatling,
+      JMeter, Artillery, Locust, and Vegeta.
+    tags:
+      - Performance
+
+  - term: Mocking
+    definition: >-
+      The creation of simulated API servers that return predefined responses to enable
+      testing without live service dependencies. API mocking tools include WireMock,
+      Mockoon, Hoverfly, Prism, and Microcks, enabling development and testing in
+      parallel with service implementation.
+    tags:
+      - Development
+
+  - term: Service Virtualization
+    definition: >-
+      A broader practice that encompasses mocking, simulation, and stubbing of API
+      dependencies. Service virtualization tools (Hoverfly, WireMock) record and
+      replay real API interactions for deterministic testing in isolated environments.
+    tags:
+      - Development
+
+  - term: Security Testing
+    definition: >-
+      Testing that identifies vulnerabilities in API implementations, including
+      authentication weaknesses, injection attacks, broken access controls, and
+      OWASP API Security Top 10 issues. Tools include OWASP ZAP, Nuclei, StackHawk,
+      and fuzzing-based scanners.
+    tags:
+      - Security
+
+  - term: Fuzz Testing
+    definition: >-
+      An automated testing technique that sends malformed, unexpected, or random inputs
+      to an API to discover crashes, security vulnerabilities, and error handling defects.
+      Schemathesis performs property-based fuzzing derived from OpenAPI schemas.
+    tags:
+      - Security
+
+  - term: API Client
+    definition: >-
+      A tool for manually or programmatically sending HTTP requests to APIs and
+      inspecting responses. API clients such as Postman, Insomnia, Hoppscotch, HTTPie,
+      and Bruno serve as the primary interface for API exploration and manual testing.
+    tags:
+      - Tooling
+
+  - term: Monitoring
+    definition: >-
+      Continuous automated testing of production APIs on a scheduled basis to detect
+      availability, correctness, and performance regressions. API monitoring tools
+      (Checkly, Assertible) run test suites at intervals and alert on failures.
+    tags:
+      - Operations
+
+  - term: Performance Testing
+    definition: >-
+      Testing that measures API response times, throughput, resource utilization, and
+      scalability. Performance testing encompasses load testing, stress testing,
+      spike testing, and endurance testing against defined SLOs.
+    tags:
+      - Performance
+
+  - term: Spec Validation
+    definition: >-
+      The automated checking of API specification documents (OpenAPI, AsyncAPI) for
+      correctness, completeness, and ruleset compliance. Spectral and Optic are the
+      primary spec validation tools used in CI/CD pipelines.
+    tags:
+      - Quality Assurance
+
+  - term: Test Automation
+    definition: >-
+      The use of tools, frameworks, and scripts to execute tests without manual
+      intervention. Test automation enables continuous quality validation in CI/CD
+      pipelines, reducing manual testing effort and accelerating feedback cycles.
+    tags:
+      - Core Concept
+
+  - term: API Mock Server
+    definition: >-
+      A running server process that intercepts API requests and returns pre-configured
+      responses based on request matching rules. Mock servers enable parallel development,
+      isolated testing, and simulation of complex API behaviors including error conditions.
+    tags:
+      - Tooling
+
+  - term: Regression Testing
+    definition: >-
+      Automated re-execution of existing test suites after code changes to ensure that
+      new code does not break previously working functionality. Regression testing is
+      a fundamental practice in continuous integration workflows.
+    tags:
+      - Quality Assurance
