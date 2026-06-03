@@ -1,0 +1,20 @@
+title: Testing
+description: A curated index of services, tooling, and open source solutions for API
+  testing, mocking, load testing, contract testing, and quality assurance. This collection
+  covers functional testing frameworks, API clients, contract testing tools, load
+  and performance testing platforms, mocking and service virtualization, monitoring,
+  and security testing scanners.
+url: https://testing.apievangelist.com
+collections:
+  api_stories:
+    output: false
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+- Dockerfile
+- examples
+- json-ld
+- json-schema
+- json-structure
+- vocabulary

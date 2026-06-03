@@ -1,0 +1,109 @@
+meta:
+  name: Testing
+  description: A curated index of services, tooling, and open source solutions for
+    API testing, mocking, load testing, contract testing, and quality assurance. This
+    collection covers functional testing frameworks, API clients, contract testing
+    tools, load and performance testing platforms, mocking and service virtualization,
+    monitoring, and security testing scanners.
+  tags:
+  - API Quality
+  - Contract Testing
+  - Load Testing
+  - Testing
+  portal: null
+  github: null
+  repo: testing
+services_tools:
+- name: Artillery
+  repo: https://github.com/api-evangelist/artillery
+  apisio: https://providers.apis.io/providers/artillery/
+- name: Assertible
+  repo: https://github.com/api-evangelist/assertible
+  apisio: https://providers.apis.io/providers/assertible/
+- name: Bruno
+  repo: https://github.com/api-evangelist/bruno
+  apisio: https://providers.apis.io/providers/bruno/
+- name: Checkly
+  repo: https://github.com/api-evangelist/checkly
+  apisio: https://providers.apis.io/providers/checkly/
+- name: Dredd
+  repo: https://github.com/api-evangelist/dredd
+  apisio: https://providers.apis.io/providers/dredd/
+- name: Gatling
+  repo: https://github.com/api-evangelist/gatling
+  apisio: https://providers.apis.io/providers/gatling/
+- name: Hoppscotch
+  repo: https://github.com/api-evangelist/hoppscotch
+  apisio: https://providers.apis.io/providers/hoppscotch/
+- name: Hoverfly
+  repo: https://github.com/api-evangelist/hoverfly
+  apisio: https://providers.apis.io/providers/hoverfly/
+- name: HTTPie
+  repo: https://github.com/api-evangelist/httpie
+  apisio: https://providers.apis.io/providers/httpie/
+- name: Insomnia
+  repo: https://github.com/api-evangelist/insomnia
+  apisio: https://providers.apis.io/providers/insomnia/
+- name: JMeter
+  repo: https://github.com/api-evangelist/jmeter
+  apisio: https://providers.apis.io/providers/jmeter/
+- name: k6
+  repo: https://github.com/api-evangelist/k6
+  apisio: https://providers.apis.io/providers/k6/
+- name: Karate
+  repo: https://github.com/api-evangelist/karate
+  apisio: https://providers.apis.io/providers/karate/
+- name: Locust
+  repo: https://github.com/api-evangelist/locust
+  apisio: https://providers.apis.io/providers/locust/
+- name: Microcks
+  repo: https://github.com/api-evangelist/microcks
+  apisio: https://providers.apis.io/providers/microcks/
+- name: Mockoon
+  repo: https://github.com/api-evangelist/mockoon
+  apisio: https://providers.apis.io/providers/mockoon/
+- name: Newman
+  repo: https://github.com/api-evangelist/newman
+  apisio: https://providers.apis.io/providers/newman/
+- name: Nuclei
+  repo: https://github.com/api-evangelist/nuclei
+  apisio: https://providers.apis.io/providers/nuclei/
+- name: Optic
+  repo: https://github.com/api-evangelist/optic
+  apisio: https://providers.apis.io/providers/optic/
+- name: OWASP ZAP
+  repo: https://github.com/api-evangelist/owasp-zap
+  apisio: https://providers.apis.io/providers/owasp-zap/
+- name: Pact
+  repo: https://github.com/api-evangelist/pact
+  apisio: https://providers.apis.io/providers/pact/
+- name: Portman
+  repo: https://github.com/api-evangelist/portman
+  apisio: https://providers.apis.io/providers/portman/
+- name: Postman
+  repo: https://github.com/api-evangelist/postman
+  apisio: https://providers.apis.io/providers/postman/
+- name: Prism
+  repo: https://github.com/api-evangelist/prism
+  apisio: https://providers.apis.io/providers/prism/
+- name: REST Assured
+  repo: https://github.com/api-evangelist/rest-assured
+  apisio: https://providers.apis.io/providers/rest-assured/
+- name: Schemathesis
+  repo: https://github.com/api-evangelist/schemathesis
+  apisio: https://providers.apis.io/providers/schemathesis/
+- name: Step CI
+  repo: https://github.com/api-evangelist/step-ci
+  apisio: https://providers.apis.io/providers/step-ci/
+- name: SuperTest
+  repo: https://github.com/api-evangelist/supertest
+  apisio: https://providers.apis.io/providers/supertest/
+- name: Vegeta
+  repo: https://github.com/api-evangelist/vegeta
+  apisio: https://providers.apis.io/providers/vegeta/
+- name: WireMock
+  repo: https://github.com/api-evangelist/wiremock
+  apisio: https://providers.apis.io/providers/wiremock/
+features: []
+use_cases: []
+integrations: []
