@@ -1,0 +1,21 @@
+related:
+- name: Performance
+  url: https://performance.apievangelist.com
+  icon: https://performance.apievangelist.com/icon.png
+  description: An index and topic collection covering API and web performance, including load testing,
+    performance benchmarking, real user monitoring (RUM), Core Web Vitals measurement, latency…
+- name: API Clients
+  url: https://api-clients.apievangelist.com
+  icon: https://api-clients.apievangelist.com/icon.png
+  description: An index and topic collection covering API clients, the developer tools used to inspect,
+    debug, exercise, and document APIs interactively. API clients include desktop and web…
+- name: Browsers
+  url: https://browsers.apievangelist.com
+  icon: https://browsers.apievangelist.com/icon.png
+  description: An index and topic collection covering programmable browsers, headless browser engines,
+    and browser-automation APIs. The Browsers topic focuses on the browser execution surface —…
+- name: API Proxies
+  url: https://api-proxies.apievangelist.com
+  icon: https://api-proxies.apievangelist.com/icon.png
+  description: An index and topic collection covering reverse-proxy and edge-proxy software used in front
+    of APIs, including HTTP reverse proxies, edge proxies, load balancers, caching proxies,…
