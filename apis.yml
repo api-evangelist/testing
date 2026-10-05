@@ -1,5 +1,6 @@
 aid: testing
 name: Testing
+kind: topic
 description: >-
   A curated index of services, tooling, and open source solutions for API
   testing, mocking, load testing, contract testing, and quality assurance.
