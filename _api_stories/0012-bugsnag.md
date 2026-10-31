@@ -1,8 +1,8 @@
 ---
-title: 'API testing for agent-driven code: SmartBear ReadyAPI MCP for Claude, Copilot,
-  Cursor, and compatible agents'
-link: https://smartbear.com/blog/api-testing-for-agent-driven-code-smartbear-readyapi-mcp-for-claude-copilot-cursor-and-compatible-agents/
-published: '2026-07-31'
+title: 'One interface for API contracts, test coverage, and production signal: Build
+  AI quality workflows with the SmartBear MCP Server on Amazon Bedrock AgentCore'
+link: https://smartbear.com/blog/one-interface-for-api-contracts-test-coverage-and-production-signal-build-ai-quality-workflows-with-the-smartbear-mcp-server-on-amazon-bedrock-agentcore/
+published: '2026-08-12'
 provider: bugsnag
 repo: https://github.com/api-evangelist/bugsnag
 domain: smartbear.com
